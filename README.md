@@ -1,5 +1,5 @@
 # miscellaneous_data
-All of our miscellaneous data that hasn't quite been used but we wanted to make it accessible to others.
+All of our D.C. Government related data that hasn't quite been used but we wanted to make it accessible to others.
 
 ## Data idex
 |Folder|                     File Name                     |ext.|            Descriptions             |
