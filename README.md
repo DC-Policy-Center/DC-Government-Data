@@ -4,6 +4,8 @@ All of our D.C. Government related data that hasn't quite been used but we wante
 ## Data idex
 |Folder|                     File Name                     |ext.|            Descriptions             |
 |:----:|:-------------------------------------------------:|:--:|:------------------------------------|
+|CAFR|CAFR_Expenditure_09to16                              |.csv,.xlsx|CAFR Expenditure from 2009 to 2016|
+|CAFR|ocfo_cafr_20XX                                       |.pdf|The CAFR PDFs from 2009 to 2016|
 |DC Tax|                         -                         |  - |This folder houses DC tax files  |
 |DC Tax|2016 Revised Tax Expenditure Report 110816         |.pdf|Original PDF from DC Website         |
 |DC Tax|tables - 2016 Revised Tax Expenditure Report 110816|.csv|Scrapped tables from page xiv - xxxiv|
