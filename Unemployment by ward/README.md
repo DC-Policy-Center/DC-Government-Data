@@ -8,10 +8,11 @@ Update history (updated monthly https://does.dc.gov/node/184512)
 * Updated June actual/ July Estimates 8/25/17
 
 
-![Labor Force]('./labor_force.png')
+## Current figures
+<img src = './labor_force.png'>
 
-![Employment]('./Employment.png')
+<img src = './employment.png'>
 
-![Uneployment]('./Unemployment.png')
+<img src = './unemployment.png'>
 
-![Uneployment Rate]('./unemployment_rate.png')
+<img src='./unemployment_rate.png'>
