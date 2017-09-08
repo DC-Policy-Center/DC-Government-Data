@@ -1,0 +1,4 @@
+Files taken from : https://cfo.dc.gov/page/quarterly-revenue-estimates
+
+File	Date Scraped
+Revised Revenue Estimates FY17-21	8/31/17
