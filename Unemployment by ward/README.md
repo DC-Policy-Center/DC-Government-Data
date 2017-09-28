@@ -1,18 +1,19 @@
 Files from
 https://does.dc.gov/page/unemployment-data-dc-wards#overlay-context=page/labor-statistics
 
-Downloaded 8/24/17
-Extracted using tabulat 8/24/17
+Downloaded 9/28/17
+Extracted using tabula 8/24/17
 
 Update history (updated monthly https://does.dc.gov/node/184512)
+* Updated July actual and August Estimates 9/28/17
 * Updated June actual/ July Estimates 8/25/17
 
 
 ## Current figures
-<img src = './labor_force.png'>
+<img src = './Labor Force.png'>
 
-<img src = './employment.png'>
+<img src = './Employment.png'>
 
-<img src = './unemployment.png'>
+<img src = './Unemployment.png'>
 
-<img src='./unemployment_rate.png'>
+<img src='./Rate.png'>
