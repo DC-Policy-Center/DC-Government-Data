@@ -1,0 +1,1534 @@
+,org_type,org_code,year,subgroup,population,in_seat_attendance,state_in_seat_attendance,average_daily_attendance,state_average_daily_attendance,School Name
+2,school,0175,2016,sped,,0.941,0.925,,,School Within School at Goding
+3,school,0175,2016,mu7,,0.967,0.953,,,School Within School at Goding
+4,school,0175,2016,male,,0.961,0.933,,,School Within School at Goding
+5,school,0175,2016,hi7,,0.969,0.947,,,School Within School at Goding
+6,school,0175,2016,female,,0.965,0.935,,,School Within School at Goding
+7,school,0175,2016,economy,,0.921,0.927,,,School Within School at Goding
+8,school,0175,2016,bl7,,0.938,0.924,,,School Within School at Goding
+9,school,0175,2016,all,,0.963,0.934,,,School Within School at Goding
+2,school,0202,2016,male,,0.934,0.934,,,Aiton ES
+3,school,0202,2016,female,,0.938,0.936,,,Aiton ES
+4,school,0202,2016,economy,,0.936,0.929,,,Aiton ES
+5,school,0202,2016,bl7,,0.936,0.926,,,Aiton ES
+6,school,0202,2016,all,,0.936,0.935,,,Aiton ES
+2,school,0203,2016,sped,,0.932,0.926,,,Amidon Bowen ES
+3,school,0203,2016,male,,0.925,0.934,,,Amidon Bowen ES
+4,school,0203,2016,hi7,,0.928,0.948,,,Amidon Bowen ES
+5,school,0203,2016,female,,0.923,0.936,,,Amidon Bowen ES
+6,school,0203,2016,economy,,0.924,0.929,,,Amidon Bowen ES
+7,school,0203,2016,bl7,,0.924,0.926,,,Amidon Bowen ES
+8,school,0203,2016,all,,0.924,0.935,,,Amidon Bowen ES
+2,school,0204,2016,sped,,0.947,0.926,,,Bancroft ES at Sharpe
+3,school,0204,2016,male,,0.966,0.934,,,Bancroft ES at Sharpe
+4,school,0204,2016,lep,,0.964,0.949,,,Bancroft ES at Sharpe
+5,school,0204,2016,hi7,,0.966,0.948,,,Bancroft ES at Sharpe
+6,school,0204,2016,female,,0.964,0.936,,,Bancroft ES at Sharpe
+7,school,0204,2016,economy,,0.965,0.929,,,Bancroft ES at Sharpe
+8,school,0204,2016,bl7,,0.952,0.926,,,Bancroft ES at Sharpe
+9,school,0204,2016,as7,,0.967,0.962,,,Bancroft ES at Sharpe
+10,school,0204,2016,all,,0.965,0.935,,,Bancroft ES at Sharpe
+2,school,0205,2016,sped,,0.935,0.926,,,Barnard ES
+3,school,0205,2016,mu7,,0.93,0.953,,,Barnard ES
+4,school,0205,2016,male,,0.946,0.934,,,Barnard ES
+5,school,0205,2016,lep,,0.953,0.949,,,Barnard ES
+6,school,0205,2016,hi7,,0.953,0.948,,,Barnard ES
+7,school,0205,2016,female,,0.954,0.936,,,Barnard ES
+8,school,0205,2016,economy,,0.95,0.929,,,Barnard ES
+9,school,0205,2016,bl7,,0.946,0.926,,,Barnard ES
+10,school,0205,2016,all,,0.95,0.935,,,Barnard ES
+2,school,0206,2016,male,,0.934,0.934,,,Beers ES
+3,school,0206,2016,female,,0.936,0.936,,,Beers ES
+4,school,0206,2016,economy,,0.935,0.929,,,Beers ES
+5,school,0206,2016,bl7,,0.935,0.926,,,Beers ES
+6,school,0206,2016,all,,0.935,0.935,,,Beers ES
+2,school,0212,2016,sped,,0.966,0.926,,,Brent ES
+3,school,0212,2016,mu7,,0.969,0.953,,,Brent ES
+4,school,0212,2016,male,,0.966,0.934,,,Brent ES
+5,school,0212,2016,hi7,,0.971,0.948,,,Brent ES
+6,school,0212,2016,female,,0.969,0.936,,,Brent ES
+7,school,0212,2016,economy,,0.95,0.929,,,Brent ES
+8,school,0212,2016,bl7,,0.963,0.926,,,Brent ES
+9,school,0212,2016,as7,,0.965,0.962,,,Brent ES
+10,school,0212,2016,all,,0.968,0.935,,,Brent ES
+2,school,0213,2016,male,,0.951,0.933,,,Brightwood EC
+3,school,0213,2016,lep,,0.953,0.948,,,Brightwood EC
+4,school,0213,2016,hi7,,0.951,0.947,,,Brightwood EC
+5,school,0213,2016,female,,0.952,0.935,,,Brightwood EC
+6,school,0213,2016,economy,,0.952,0.928,,,Brightwood EC
+7,school,0213,2016,bl7,,0.956,0.925,,,Brightwood EC
+8,school,0213,2016,all,,0.952,0.934,,,Brightwood EC
+2,school,0219,2016,male,,0.908,0.934,,,Bunker Hill ES
+3,school,0219,2016,hi7,,0.94,0.948,,,Bunker Hill ES
+4,school,0219,2016,female,,0.932,0.936,,,Bunker Hill ES
+5,school,0219,2016,economy,,0.921,0.929,,,Bunker Hill ES
+6,school,0219,2016,bl7,,0.92,0.926,,,Bunker Hill ES
+7,school,0219,2016,all,,0.92,0.935,,,Bunker Hill ES
+2,school,0220,2016,sped,,0.944,0.926,,,Burroughs ES
+3,school,0220,2016,male,,0.965,0.934,,,Burroughs ES
+4,school,0220,2016,lep,,0.972,0.949,,,Burroughs ES
+5,school,0220,2016,hi7,,0.963,0.948,,,Burroughs ES
+6,school,0220,2016,female,,0.963,0.936,,,Burroughs ES
+7,school,0220,2016,economy,,0.964,0.929,,,Burroughs ES
+8,school,0220,2016,bl7,,0.964,0.926,,,Burroughs ES
+9,school,0220,2016,all,,0.964,0.935,,,Burroughs ES
+2,school,0221,2016,male,,0.927,0.934,,,Burrville ES
+3,school,0221,2016,female,,0.933,0.936,,,Burrville ES
+4,school,0221,2016,economy,,0.93,0.929,,,Burrville ES
+5,school,0221,2016,bl7,,0.93,0.926,,,Burrville ES
+6,school,0221,2016,all,,0.93,0.935,,,Burrville ES
+2,school,0224,2016,sped,,0.946,0.926,,,Cleveland ES
+3,school,0224,2016,mu7,,0.969,0.953,,,Cleveland ES
+4,school,0224,2016,male,,0.948,0.934,,,Cleveland ES
+5,school,0224,2016,lep,,0.967,0.949,,,Cleveland ES
+6,school,0224,2016,hi7,,0.958,0.948,,,Cleveland ES
+7,school,0224,2016,female,,0.956,0.936,,,Cleveland ES
+8,school,0224,2016,economy,,0.951,0.929,,,Cleveland ES
+9,school,0224,2016,bl7,,0.947,0.926,,,Cleveland ES
+10,school,0224,2016,all,,0.952,0.935,,,Cleveland ES
+2,school,0227,2016,sped,,0.933,0.926,,,H D Cooke ES
+3,school,0227,2016,male,,0.942,0.934,,,H D Cooke ES
+4,school,0227,2016,lep,,0.943,0.949,,,H D Cooke ES
+5,school,0227,2016,hi7,,0.942,0.948,,,H D Cooke ES
+6,school,0227,2016,female,,0.941,0.936,,,H D Cooke ES
+7,school,0227,2016,economy,,0.941,0.929,,,H D Cooke ES
+8,school,0227,2016,bl7,,0.936,0.926,,,H D Cooke ES
+9,school,0227,2016,as7,,0.953,0.962,,,H D Cooke ES
+10,school,0227,2016,all,,0.942,0.935,,,H D Cooke ES
+2,school,0231,2016,male,,0.93,0.934,,,Drew ES
+3,school,0231,2016,female,,0.922,0.936,,,Drew ES
+4,school,0231,2016,economy,,0.926,0.929,,,Drew ES
+5,school,0231,2016,bl7,,0.926,0.926,,,Drew ES
+6,school,0231,2016,all,,0.926,0.935,,,Drew ES
+2,school,0232,2016,sped,,0.975,0.927,,,Eaton ES
+3,school,0232,2016,mu7,,0.976,0.955,,,Eaton ES
+4,school,0232,2016,male,,0.968,0.937,,,Eaton ES
+5,school,0232,2016,lep,,0.965,0.952,,,Eaton ES
+6,school,0232,2016,hi7,,0.969,0.951,,,Eaton ES
+7,school,0232,2016,female,,0.971,0.939,,,Eaton ES
+8,school,0232,2016,economy,,0.969,0.932,,,Eaton ES
+9,school,0232,2016,bl7,,0.974,0.929,,,Eaton ES
+10,school,0232,2016,as7,,0.966,0.965,,,Eaton ES
+11,school,0232,2016,all,,0.97,0.938,,,Eaton ES
+2,school,0238,2016,male,,0.935,0.934,,,Garfield ES
+3,school,0238,2016,female,,0.942,0.936,,,Garfield ES
+4,school,0238,2016,economy,,0.938,0.929,,,Garfield ES
+5,school,0238,2016,bl7,,0.938,0.926,,,Garfield ES
+6,school,0238,2016,all,,0.938,0.935,,,Garfield ES
+2,school,0239,2016,sped,,0.922,0.926,,,Garrison ES
+3,school,0239,2016,male,,0.935,0.934,,,Garrison ES
+4,school,0239,2016,lep,,0.958,0.949,,,Garrison ES
+5,school,0239,2016,hi7,,0.94,0.948,,,Garrison ES
+6,school,0239,2016,female,,0.935,0.936,,,Garrison ES
+7,school,0239,2016,economy,,0.935,0.929,,,Garrison ES
+8,school,0239,2016,bl7,,0.929,0.926,,,Garrison ES
+9,school,0239,2016,all,,0.935,0.935,,,Garrison ES
+2,school,0246,2016,sped,,0.917,0.908,,,Hardy MS
+3,school,0246,2016,male,,0.937,0.928,,,Hardy MS
+4,school,0246,2016,lep,,0.944,0.939,,,Hardy MS
+5,school,0246,2016,hi7,,0.951,0.942,,,Hardy MS
+6,school,0246,2016,female,,0.941,0.931,,,Hardy MS
+7,school,0246,2016,economy,,0.936,0.923,,,Hardy MS
+8,school,0246,2016,bl7,,0.93,0.922,,,Hardy MS
+9,school,0246,2016,as7,,0.958,0.962,,,Hardy MS
+10,school,0246,2016,all,,0.939,0.929,,,Hardy MS
+2,school,0247,2016,male,,0.912,0.934,,,C W  Harris ES
+3,school,0247,2016,female,,0.91,0.936,,,C W  Harris ES
+4,school,0247,2016,economy,,0.911,0.929,,,C W  Harris ES
+5,school,0247,2016,bl7,,0.911,0.926,,,C W  Harris ES
+6,school,0247,2016,all,,0.911,0.935,,,C W  Harris ES
+2,school,0249,2016,male,,0.926,0.934,,,Hendley ES
+3,school,0249,2016,female,,0.931,0.936,,,Hendley ES
+4,school,0249,2016,economy,,0.928,0.929,,,Hendley ES
+5,school,0249,2016,bl7,,0.928,0.926,,,Hendley ES
+6,school,0249,2016,all,,0.928,0.935,,,Hendley ES
+2,school,0251,2016,male,,0.911,0.934,,,Houston ES
+3,school,0251,2016,hi7,,0.919,0.948,,,Houston ES
+4,school,0251,2016,female,,0.911,0.936,,,Houston ES
+5,school,0251,2016,economy,,0.911,0.929,,,Houston ES
+6,school,0251,2016,bl7,,0.91,0.926,,,Houston ES
+7,school,0251,2016,all,,0.911,0.935,,,Houston ES
+2,school,0252,2016,sped,,0.942,0.926,,,Hyde Addison ES
+3,school,0252,2016,mu7,,0.968,0.953,,,Hyde Addison ES
+4,school,0252,2016,male,,0.957,0.934,,,Hyde Addison ES
+5,school,0252,2016,lep,,0.963,0.949,,,Hyde Addison ES
+6,school,0252,2016,hi7,,0.945,0.948,,,Hyde Addison ES
+7,school,0252,2016,female,,0.959,0.936,,,Hyde Addison ES
+8,school,0252,2016,economy,,0.952,0.929,,,Hyde Addison ES
+9,school,0252,2016,bl7,,0.957,0.926,,,Hyde Addison ES
+10,school,0252,2016,as7,,0.957,0.962,,,Hyde Addison ES
+11,school,0252,2016,all,,0.958,0.935,,,Hyde Addison ES
+2,school,0254,2016,sped,,0.967,0.927,,,Janney ES
+3,school,0254,2016,mu7,,0.972,0.955,,,Janney ES
+4,school,0254,2016,male,,0.968,0.937,,,Janney ES
+5,school,0254,2016,lep,,0.957,0.952,,,Janney ES
+6,school,0254,2016,hi7,,0.963,0.951,,,Janney ES
+7,school,0254,2016,female,,0.966,0.939,,,Janney ES
+8,school,0254,2016,economy,,0.967,0.932,,,Janney ES
+9,school,0254,2016,bl7,,0.967,0.929,,,Janney ES
+10,school,0254,2016,as7,,0.969,0.965,,,Janney ES
+11,school,0254,2016,all,,0.967,0.938,,,Janney ES
+2,school,0257,2016,male,,0.905,0.934,,,Ketcham ES
+3,school,0257,2016,hi7,,0.935,0.948,,,Ketcham ES
+4,school,0257,2016,female,,0.906,0.936,,,Ketcham ES
+5,school,0257,2016,economy,,0.905,0.929,,,Ketcham ES
+6,school,0257,2016,bl7,,0.903,0.926,,,Ketcham ES
+7,school,0257,2016,all,,0.905,0.935,,,Ketcham ES
+2,school,0258,2016,sped,,0.936,0.926,,,Hearst ES
+3,school,0258,2016,mu7,,0.953,0.953,,,Hearst ES
+4,school,0258,2016,male,,0.954,0.934,,,Hearst ES
+5,school,0258,2016,lep,,0.96,0.949,,,Hearst ES
+6,school,0258,2016,hi7,,0.959,0.948,,,Hearst ES
+7,school,0258,2016,female,,0.96,0.936,,,Hearst ES
+8,school,0258,2016,economy,,0.952,0.929,,,Hearst ES
+9,school,0258,2016,bl7,,0.955,0.926,,,Hearst ES
+10,school,0258,2016,as7,,0.964,0.962,,,Hearst ES
+11,school,0258,2016,all,,0.957,0.935,,,Hearst ES
+2,school,0259,2016,male,,0.915,0.934,,,Kimball ES
+3,school,0259,2016,female,,0.928,0.936,,,Kimball ES
+4,school,0259,2016,economy,,0.921,0.929,,,Kimball ES
+5,school,0259,2016,bl7,,0.922,0.926,,,Kimball ES
+6,school,0259,2016,all,,0.921,0.935,,,Kimball ES
+2,school,0261,2016,sped,,0.965,0.927,,,Lafayette ES
+3,school,0261,2016,mu7,,0.97,0.955,,,Lafayette ES
+4,school,0261,2016,male,,0.967,0.937,,,Lafayette ES
+5,school,0261,2016,lep,,0.966,0.952,,,Lafayette ES
+6,school,0261,2016,hi7,,0.97,0.951,,,Lafayette ES
+7,school,0261,2016,female,,0.965,0.939,,,Lafayette ES
+8,school,0261,2016,economy,,0.96,0.932,,,Lafayette ES
+9,school,0261,2016,bl7,,0.972,0.929,,,Lafayette ES
+10,school,0261,2016,as7,,0.97,0.965,,,Lafayette ES
+11,school,0261,2016,all,,0.966,0.938,,,Lafayette ES
+2,school,0262,2016,male,,0.95,0.934,,,Langdon ES
+3,school,0262,2016,lep,,0.946,0.949,,,Langdon ES
+4,school,0262,2016,hi7,,0.943,0.948,,,Langdon ES
+5,school,0262,2016,female,,0.953,0.936,,,Langdon ES
+6,school,0262,2016,economy,,0.951,0.929,,,Langdon ES
+7,school,0262,2016,bl7,,0.953,0.926,,,Langdon ES
+8,school,0262,2016,all,,0.951,0.935,,,Langdon ES
+2,school,0264,2016,male,,0.936,0.933,,,LaSalle Backus EC
+3,school,0264,2016,lep,,0.938,0.948,,,LaSalle Backus EC
+4,school,0264,2016,hi7,,0.938,0.947,,,LaSalle Backus EC
+5,school,0264,2016,female,,0.928,0.935,,,LaSalle Backus EC
+6,school,0264,2016,economy,,0.932,0.928,,,LaSalle Backus EC
+7,school,0264,2016,bl7,,0.927,0.925,,,LaSalle Backus EC
+8,school,0264,2016,all,,0.933,0.934,,,LaSalle Backus EC
+2,school,0266,2016,sped,,0.943,0.925,,,Leckie ES
+3,school,0266,2016,mu7,,0.961,0.953,,,Leckie ES
+4,school,0266,2016,male,,0.948,0.934,,,Leckie ES
+5,school,0266,2016,hi7,,0.969,0.948,,,Leckie ES
+6,school,0266,2016,female,,0.949,0.936,,,Leckie ES
+7,school,0266,2016,economy,,0.948,0.929,,,Leckie ES
+8,school,0266,2016,bl7,,0.945,0.926,,,Leckie ES
+9,school,0266,2016,all,,0.948,0.935,,,Leckie ES
+2,school,0271,2016,sped,,0.937,0.926,,,Ludlow Taylor ES
+3,school,0271,2016,mu7,,0.958,0.953,,,Ludlow Taylor ES
+4,school,0271,2016,male,,0.948,0.934,,,Ludlow Taylor ES
+5,school,0271,2016,hi7,,0.966,0.948,,,Ludlow Taylor ES
+6,school,0271,2016,female,,0.96,0.936,,,Ludlow Taylor ES
+7,school,0271,2016,economy,,0.954,0.929,,,Ludlow Taylor ES
+8,school,0271,2016,bl7,,0.949,0.926,,,Ludlow Taylor ES
+9,school,0271,2016,all,,0.954,0.935,,,Ludlow Taylor ES
+2,school,0272,2016,sped,,0.959,0.927,,,Key ES
+3,school,0272,2016,mu7,,0.963,0.955,,,Key ES
+4,school,0272,2016,male,,0.958,0.937,,,Key ES
+5,school,0272,2016,lep,,0.968,0.952,,,Key ES
+6,school,0272,2016,hi7,,0.967,0.951,,,Key ES
+7,school,0272,2016,female,,0.963,0.939,,,Key ES
+8,school,0272,2016,economy,,0.926,0.932,,,Key ES
+9,school,0272,2016,bl7,,0.96,0.929,,,Key ES
+10,school,0272,2016,as7,,0.947,0.965,,,Key ES
+11,school,0272,2016,all,,0.96,0.938,,,Key ES
+2,school,0273,2016,sped,,0.973,0.927,,,Mann ES
+3,school,0273,2016,mu7,,0.966,0.955,,,Mann ES
+4,school,0273,2016,male,,0.966,0.937,,,Mann ES
+5,school,0273,2016,lep,,0.958,0.952,,,Mann ES
+6,school,0273,2016,hi7,,0.961,0.951,,,Mann ES
+7,school,0273,2016,female,,0.962,0.939,,,Mann ES
+8,school,0273,2016,economy,,0.975,0.932,,,Mann ES
+9,school,0273,2016,bl7,,0.977,0.929,,,Mann ES
+10,school,0273,2016,as7,,0.957,0.965,,,Mann ES
+11,school,0273,2016,all,,0.964,0.938,,,Mann ES
+2,school,0274,2016,sped,,0.95,0.926,,,Maury ES
+3,school,0274,2016,mu7,,0.962,0.953,,,Maury ES
+4,school,0274,2016,male,,0.961,0.934,,,Maury ES
+5,school,0274,2016,hi7,,0.972,0.948,,,Maury ES
+6,school,0274,2016,female,,0.965,0.936,,,Maury ES
+7,school,0274,2016,economy,,0.947,0.929,,,Maury ES
+8,school,0274,2016,bl7,,0.951,0.926,,,Maury ES
+9,school,0274,2016,all,,0.963,0.935,,,Maury ES
+2,school,0280,2016,sped,,0.934,0.926,,,Miner ES
+3,school,0280,2016,male,,0.944,0.934,,,Miner ES
+4,school,0280,2016,hi7,,0.951,0.948,,,Miner ES
+5,school,0280,2016,female,,0.943,0.936,,,Miner ES
+6,school,0280,2016,economy,,0.943,0.929,,,Miner ES
+7,school,0280,2016,bl7,,0.942,0.926,,,Miner ES
+8,school,0280,2016,all,,0.944,0.935,,,Miner ES
+2,school,0284,2016,sped,,0.933,0.926,,,Marie Reed ES at MacFarland
+3,school,0284,2016,mu7,,0.952,0.953,,,Marie Reed ES at MacFarland
+4,school,0284,2016,male,,0.944,0.934,,,Marie Reed ES at MacFarland
+5,school,0284,2016,lep,,0.949,0.949,,,Marie Reed ES at MacFarland
+6,school,0284,2016,hi7,,0.946,0.948,,,Marie Reed ES at MacFarland
+7,school,0284,2016,female,,0.943,0.936,,,Marie Reed ES at MacFarland
+8,school,0284,2016,economy,,0.944,0.929,,,Marie Reed ES at MacFarland
+9,school,0284,2016,bl7,,0.929,0.926,,,Marie Reed ES at MacFarland
+10,school,0284,2016,as7,,0.957,0.962,,,Marie Reed ES at MacFarland
+11,school,0284,2016,all,,0.944,0.935,,,Marie Reed ES at MacFarland
+2,school,0285,2016,male,,0.912,0.934,,,Moten ES
+3,school,0285,2016,female,,0.898,0.936,,,Moten ES
+4,school,0285,2016,economy,,0.905,0.929,,,Moten ES
+5,school,0285,2016,bl7,,0.905,0.926,,,Moten ES
+6,school,0285,2016,all,,0.905,0.935,,,Moten ES
+2,school,0287,2016,sped,,0.983,0.927,,,Murch ES
+3,school,0287,2016,mu7,,0.986,0.955,,,Murch ES
+4,school,0287,2016,male,,0.983,0.937,,,Murch ES
+5,school,0287,2016,lep,,0.988,0.952,,,Murch ES
+6,school,0287,2016,hi7,,0.986,0.951,,,Murch ES
+7,school,0287,2016,female,,0.984,0.939,,,Murch ES
+8,school,0287,2016,economy,,0.981,0.932,,,Murch ES
+9,school,0287,2016,bl7,,0.98,0.929,,,Murch ES
+10,school,0287,2016,as7,,0.985,0.965,,,Murch ES
+11,school,0287,2016,all,,0.984,0.938,,,Murch ES
+2,school,0288,2016,bl7,,0.956,0.926,,,Nalle ES
+3,school,0288,2016,all,,0.957,0.935,,,Nalle ES
+4,school,0288,2016,sped,,0.955,0.926,,,Nalle ES
+5,school,0288,2016,male,,0.957,0.934,,,Nalle ES
+6,school,0288,2016,hi7,,0.965,0.948,,,Nalle ES
+7,school,0288,2016,female,,0.957,0.936,,,Nalle ES
+2,school,0290,2016,male,,0.917,0.934,,,Noyes ES
+3,school,0290,2016,lep,,0.936,0.949,,,Noyes ES
+4,school,0290,2016,hi7,,0.948,0.948,,,Noyes ES
+5,school,0290,2016,female,,0.92,0.936,,,Noyes ES
+6,school,0290,2016,economy,,0.919,0.929,,,Noyes ES
+7,school,0290,2016,bl7,,0.915,0.926,,,Noyes ES
+8,school,0290,2016,all,,0.919,0.935,,,Noyes ES
+2,school,0291,2016,male,,0.927,0.934,,,Orr ES
+3,school,0291,2016,female,,0.921,0.936,,,Orr ES
+4,school,0291,2016,economy,,0.924,0.929,,,Orr ES
+5,school,0291,2016,bl7,,0.923,0.926,,,Orr ES
+6,school,0291,2016,all,,0.924,0.935,,,Orr ES
+2,school,0292,2016,sped,,0.958,0.922,,,Oyster Adams Bilingual School
+3,school,0292,2016,mu7,,0.977,0.954,,,Oyster Adams Bilingual School
+4,school,0292,2016,male,,0.97,0.935,,,Oyster Adams Bilingual School
+5,school,0292,2016,lep,,0.965,0.95,,,Oyster Adams Bilingual School
+6,school,0292,2016,hi7,,0.967,0.949,,,Oyster Adams Bilingual School
+7,school,0292,2016,female,,0.969,0.937,,,Oyster Adams Bilingual School
+8,school,0292,2016,economy,,0.966,0.93,,,Oyster Adams Bilingual School
+9,school,0292,2016,bl7,,0.971,0.928,,,Oyster Adams Bilingual School
+10,school,0292,2016,as7,,0.977,0.964,,,Oyster Adams Bilingual School
+11,school,0292,2016,all,,0.969,0.936,,,Oyster Adams Bilingual School
+2,school,0294,2016,male,,0.893,0.934,,,Patterson ES
+3,school,0294,2016,female,,0.885,0.936,,,Patterson ES
+4,school,0294,2016,economy,,0.89,0.929,,,Patterson ES
+5,school,0294,2016,bl7,,0.89,0.926,,,Patterson ES
+6,school,0294,2016,all,,0.89,0.935,,,Patterson ES
+2,school,0295,2016,sped,,0.923,0.926,,,Payne ES
+3,school,0295,2016,mu7,,0.906,0.953,,,Payne ES
+4,school,0295,2016,male,,0.929,0.934,,,Payne ES
+5,school,0295,2016,hi7,,0.889,0.948,,,Payne ES
+6,school,0295,2016,female,,0.909,0.936,,,Payne ES
+7,school,0295,2016,economy,,0.918,0.929,,,Payne ES
+8,school,0295,2016,bl7,,0.918,0.926,,,Payne ES
+9,school,0295,2016,all,,0.919,0.935,,,Payne ES
+2,school,0296,2016,sped,,0.947,0.926,,,Bruce Monroe ES at Park View
+3,school,0296,2016,male,,0.949,0.934,,,Bruce Monroe ES at Park View
+4,school,0296,2016,lep,,0.952,0.949,,,Bruce Monroe ES at Park View
+5,school,0296,2016,hi7,,0.952,0.948,,,Bruce Monroe ES at Park View
+6,school,0296,2016,female,,0.949,0.936,,,Bruce Monroe ES at Park View
+7,school,0296,2016,economy,,0.949,0.929,,,Bruce Monroe ES at Park View
+8,school,0296,2016,bl7,,0.933,0.926,,,Bruce Monroe ES at Park View
+9,school,0296,2016,all,,0.949,0.935,,,Bruce Monroe ES at Park View
+2,school,0299,2016,male,,0.919,0.934,,,Plummer ES
+3,school,0299,2016,lep,,0.968,0.949,,,Plummer ES
+4,school,0299,2016,hi7,,0.966,0.948,,,Plummer ES
+5,school,0299,2016,female,,0.923,0.936,,,Plummer ES
+6,school,0299,2016,economy,,0.921,0.929,,,Plummer ES
+7,school,0299,2016,bl7,,0.917,0.926,,,Plummer ES
+8,school,0299,2016,all,,0.921,0.935,,,Plummer ES
+2,school,0300,2016,sped,,0.951,0.926,,,Powell ES
+3,school,0300,2016,mu7,,0.964,0.953,,,Powell ES
+4,school,0300,2016,male,,0.957,0.934,,,Powell ES
+5,school,0300,2016,lep,,0.962,0.949,,,Powell ES
+6,school,0300,2016,hi7,,0.96,0.948,,,Powell ES
+7,school,0300,2016,female,,0.955,0.936,,,Powell ES
+8,school,0300,2016,economy,,0.956,0.929,,,Powell ES
+9,school,0300,2016,bl7,,0.936,0.926,,,Powell ES
+10,school,0300,2016,all,,0.956,0.935,,,Powell ES
+2,school,0301,2016,sped,,0.927,0.914,,,Peabody ES Capitol Hill Cluster
+3,school,0301,2016,mu7,,0.942,0.946,,,Peabody ES Capitol Hill Cluster
+4,school,0301,2016,male,,0.946,0.921,,,Peabody ES Capitol Hill Cluster
+5,school,0301,2016,hi7,,0.948,0.932,,,Peabody ES Capitol Hill Cluster
+6,school,0301,2016,female,,0.953,0.923,,,Peabody ES Capitol Hill Cluster
+7,school,0301,2016,economy,,0.916,0.915,,,Peabody ES Capitol Hill Cluster
+8,school,0301,2016,bl7,,0.935,0.911,,,Peabody ES Capitol Hill Cluster
+9,school,0301,2016,all,,0.949,0.922,,,Peabody ES Capitol Hill Cluster
+2,school,0302,2016,sped,,0.95,0.921,,,Raymond EC
+3,school,0302,2016,male,,0.96,0.933,,,Raymond EC
+4,school,0302,2016,lep,,0.959,0.948,,,Raymond EC
+5,school,0302,2016,hi7,,0.96,0.947,,,Raymond EC
+6,school,0302,2016,female,,0.96,0.935,,,Raymond EC
+7,school,0302,2016,economy,,0.96,0.928,,,Raymond EC
+8,school,0302,2016,bl7,,0.96,0.925,,,Raymond EC
+9,school,0302,2016,all,,0.96,0.934,,,Raymond EC
+2,school,0304,2016,male,,0.911,0.885,,,River Terrace EC
+3,school,0304,2016,lep,,0.906,0.863,,,River Terrace EC
+4,school,0304,2016,hi7,,0.901,0.853,,,River Terrace EC
+5,school,0304,2016,female,,0.881,0.87,,,River Terrace EC
+6,school,0304,2016,economy,,0.898,0.877,,,River Terrace EC
+7,school,0304,2016,bl7,,0.899,0.882,,,River Terrace EC
+8,school,0304,2016,all,,0.898,0.879,,,River Terrace EC
+2,school,0305,2016,mu7,,0.968,0.953,,,Ross ES
+3,school,0305,2016,male,,0.968,0.934,,,Ross ES
+4,school,0305,2016,lep,,0.969,0.949,,,Ross ES
+5,school,0305,2016,hi7,,0.962,0.948,,,Ross ES
+6,school,0305,2016,female,,0.965,0.936,,,Ross ES
+7,school,0305,2016,economy,,0.973,0.929,,,Ross ES
+8,school,0305,2016,bl7,,0.975,0.926,,,Ross ES
+9,school,0305,2016,as7,,0.974,0.962,,,Ross ES
+10,school,0305,2016,all,,0.966,0.935,,,Ross ES
+2,school,0307,2016,male,,0.892,0.934,,,Savoy ES
+3,school,0307,2016,female,,0.914,0.936,,,Savoy ES
+4,school,0307,2016,economy,,0.903,0.929,,,Savoy ES
+5,school,0307,2016,bl7,,0.903,0.926,,,Savoy ES
+6,school,0307,2016,all,,0.903,0.935,,,Savoy ES
+2,school,0308,2016,male,,0.938,0.934,,,Malcolm X ES at Green
+3,school,0308,2016,female,,0.914,0.936,,,Malcolm X ES at Green
+4,school,0308,2016,economy,,0.927,0.929,,,Malcolm X ES at Green
+5,school,0308,2016,bl7,,0.927,0.926,,,Malcolm X ES at Green
+6,school,0308,2016,all,,0.927,0.935,,,Malcolm X ES at Green
+2,school,0309,2016,sped,,0.947,0.926,,,Seaton ES
+3,school,0309,2016,male,,0.959,0.934,,,Seaton ES
+4,school,0309,2016,lep,,0.963,0.949,,,Seaton ES
+5,school,0309,2016,hi7,,0.965,0.948,,,Seaton ES
+6,school,0309,2016,female,,0.962,0.936,,,Seaton ES
+7,school,0309,2016,economy,,0.961,0.929,,,Seaton ES
+8,school,0309,2016,bl7,,0.952,0.926,,,Seaton ES
+9,school,0309,2016,as7,,0.977,0.962,,,Seaton ES
+10,school,0309,2016,all,,0.961,0.935,,,Seaton ES
+2,school,0313,2016,sped,,0.935,0.926,,,Shepherd ES
+3,school,0313,2016,mu7,,0.947,0.953,,,Shepherd ES
+4,school,0313,2016,male,,0.963,0.934,,,Shepherd ES
+5,school,0313,2016,hi7,,0.967,0.948,,,Shepherd ES
+6,school,0313,2016,female,,0.958,0.936,,,Shepherd ES
+7,school,0313,2016,economy,,0.954,0.929,,,Shepherd ES
+8,school,0313,2016,bl7,,0.961,0.926,,,Shepherd ES
+9,school,0313,2016,all,,0.961,0.935,,,Shepherd ES
+2,school,0315,2016,male,,0.932,0.934,,,Simon ES
+3,school,0315,2016,female,,0.933,0.936,,,Simon ES
+4,school,0315,2016,economy,,0.932,0.929,,,Simon ES
+5,school,0315,2016,bl7,,0.932,0.926,,,Simon ES
+6,school,0315,2016,all,,0.932,0.935,,,Simon ES
+2,school,0316,2016,male,,0.928,0.934,,,Randle Highlands ES
+3,school,0316,2016,female,,0.933,0.936,,,Randle Highlands ES
+4,school,0316,2016,economy,,0.93,0.929,,,Randle Highlands ES
+5,school,0316,2016,bl7,,0.93,0.926,,,Randle Highlands ES
+6,school,0316,2016,all,,0.93,0.935,,,Randle Highlands ES
+2,school,0319,2016,male,,0.917,0.934,,,Stanton ES
+3,school,0319,2016,hi7,,0.924,0.948,,,Stanton ES
+4,school,0319,2016,female,,0.931,0.936,,,Stanton ES
+5,school,0319,2016,economy,,0.924,0.929,,,Stanton ES
+6,school,0319,2016,bl7,,0.924,0.926,,,Stanton ES
+7,school,0319,2016,all,,0.924,0.935,,,Stanton ES
+2,school,0321,2016,sped,,0.968,0.927,,,Stoddert ES
+3,school,0321,2016,mu7,,0.972,0.955,,,Stoddert ES
+4,school,0321,2016,male,,0.952,0.937,,,Stoddert ES
+5,school,0321,2016,lep,,0.915,0.952,,,Stoddert ES
+6,school,0321,2016,hi7,,0.952,0.951,,,Stoddert ES
+7,school,0321,2016,female,,0.954,0.939,,,Stoddert ES
+8,school,0321,2016,economy,,0.956,0.932,,,Stoddert ES
+9,school,0321,2016,bl7,,0.956,0.929,,,Stoddert ES
+10,school,0321,2016,as7,,0.955,0.965,,,Stoddert ES
+11,school,0321,2016,all,,0.953,0.938,,,Stoddert ES
+2,school,0322,2016,male,,0.917,0.934,,,Smothers ES
+3,school,0322,2016,hi7,,0.93,0.948,,,Smothers ES
+4,school,0322,2016,female,,0.92,0.936,,,Smothers ES
+5,school,0322,2016,economy,,0.919,0.929,,,Smothers ES
+6,school,0322,2016,bl7,,0.918,0.926,,,Smothers ES
+7,school,0322,2016,all,,0.919,0.935,,,Smothers ES
+2,school,0324,2016,male,,0.926,0.933,,,Takoma EC
+3,school,0324,2016,lep,,0.934,0.948,,,Takoma EC
+4,school,0324,2016,hi7,,0.933,0.947,,,Takoma EC
+5,school,0324,2016,female,,0.927,0.935,,,Takoma EC
+6,school,0324,2016,economy,,0.927,0.928,,,Takoma EC
+7,school,0324,2016,bl7,,0.921,0.925,,,Takoma EC
+8,school,0324,2016,all,,0.927,0.934,,,Takoma EC
+9,school,0324,2016,wh7,,0.951,0.96,,,Takoma EC
+10,school,0324,2016,sped,,0.922,0.921,,,Takoma EC
+2,school,0325,2016,male,,0.917,0.934,,,Thomas ES
+3,school,0325,2016,hi7,,0.942,0.948,,,Thomas ES
+4,school,0325,2016,female,,0.922,0.936,,,Thomas ES
+5,school,0325,2016,economy,,0.92,0.929,,,Thomas ES
+6,school,0325,2016,bl7,,0.919,0.926,,,Thomas ES
+7,school,0325,2016,all,,0.92,0.935,,,Thomas ES
+2,school,0326,2016,sped,,0.974,0.926,,,Thomson ES
+3,school,0326,2016,male,,0.968,0.934,,,Thomson ES
+4,school,0326,2016,lep,,0.966,0.949,,,Thomson ES
+5,school,0326,2016,hi7,,0.969,0.948,,,Thomson ES
+6,school,0326,2016,female,,0.96,0.936,,,Thomson ES
+7,school,0326,2016,economy,,0.964,0.929,,,Thomson ES
+8,school,0326,2016,bl7,,0.952,0.926,,,Thomson ES
+9,school,0326,2016,as7,,0.968,0.962,,,Thomson ES
+10,school,0326,2016,all,,0.964,0.935,,,Thomson ES
+2,school,0327,2016,male,,0.939,0.933,,,Truesdell EC
+3,school,0327,2016,lep,,0.942,0.948,,,Truesdell EC
+4,school,0327,2016,hi7,,0.946,0.947,,,Truesdell EC
+5,school,0327,2016,female,,0.946,0.935,,,Truesdell EC
+6,school,0327,2016,economy,,0.942,0.928,,,Truesdell EC
+7,school,0327,2016,bl7,,0.933,0.925,,,Truesdell EC
+8,school,0327,2016,all,,0.942,0.934,,,Truesdell EC
+2,school,0328,2016,sped,,0.919,0.926,,,Tubman ES
+3,school,0328,2016,male,,0.941,0.934,,,Tubman ES
+4,school,0328,2016,lep,,0.95,0.949,,,Tubman ES
+5,school,0328,2016,hi7,,0.951,0.948,,,Tubman ES
+6,school,0328,2016,female,,0.94,0.936,,,Tubman ES
+7,school,0328,2016,economy,,0.94,0.929,,,Tubman ES
+8,school,0328,2016,bl7,,0.925,0.926,,,Tubman ES
+9,school,0328,2016,as7,,0.973,0.962,,,Tubman ES
+10,school,0328,2016,all,,0.94,0.935,,,Tubman ES
+2,school,0329,2016,male,,0.932,0.934,,,Turner ES
+3,school,0329,2016,female,,0.932,0.936,,,Turner ES
+4,school,0329,2016,economy,,0.932,0.929,,,Turner ES
+5,school,0329,2016,bl7,,0.932,0.926,,,Turner ES
+6,school,0329,2016,all,,0.932,0.935,,,Turner ES
+2,school,0330,2016,sped,,0.937,0.926,,,Tyler ES
+3,school,0330,2016,mu7,,0.981,0.953,,,Tyler ES
+4,school,0330,2016,male,,0.949,0.934,,,Tyler ES
+5,school,0330,2016,lep,,0.969,0.949,,,Tyler ES
+6,school,0330,2016,hi7,,0.961,0.948,,,Tyler ES
+7,school,0330,2016,female,,0.953,0.936,,,Tyler ES
+8,school,0330,2016,economy,,0.951,0.929,,,Tyler ES
+9,school,0330,2016,bl7,,0.944,0.926,,,Tyler ES
+10,school,0330,2016,all,,0.951,0.935,,,Tyler ES
+2,school,0331,2016,male,,0.926,0.921,,,Van Ness ES
+3,school,0331,2016,female,,0.946,0.923,,,Van Ness ES
+4,school,0331,2016,economy,,0.909,0.915,,,Van Ness ES
+5,school,0331,2016,bl7,,0.912,0.911,,,Van Ness ES
+6,school,0331,2016,all,,0.936,0.922,,,Van Ness ES
+2,school,0332,2016,male,,0.893,0.933,,,Walker Jones EC
+3,school,0332,2016,hi7,,0.908,0.947,,,Walker Jones EC
+4,school,0332,2016,female,,0.894,0.935,,,Walker Jones EC
+5,school,0332,2016,economy,,0.893,0.928,,,Walker Jones EC
+6,school,0332,2016,bl7,,0.892,0.925,,,Walker Jones EC
+7,school,0332,2016,all,,0.894,0.934,,,Walker Jones EC
+2,school,0333,2016,sped,,0.951,0.931,,,Watkins ES Capitol Hill Cluster
+3,school,0333,2016,mu7,,0.945,0.959,,,Watkins ES Capitol Hill Cluster
+4,school,0333,2016,male,,0.962,0.943,,,Watkins ES Capitol Hill Cluster
+5,school,0333,2016,hi7,,0.965,0.957,,,Watkins ES Capitol Hill Cluster
+6,school,0333,2016,female,,0.961,0.945,,,Watkins ES Capitol Hill Cluster
+7,school,0333,2016,economy,,0.947,0.938,,,Watkins ES Capitol Hill Cluster
+8,school,0333,2016,bl7,,0.958,0.936,,,Watkins ES Capitol Hill Cluster
+9,school,0333,2016,all,,0.962,0.944,,,Watkins ES Capitol Hill Cluster
+2,school,0335,2016,male,,0.917,0.933,,,Wheatley EC
+3,school,0335,2016,lep,,0.95,0.948,,,Wheatley EC
+4,school,0335,2016,hi7,,0.939,0.947,,,Wheatley EC
+5,school,0335,2016,female,,0.913,0.935,,,Wheatley EC
+6,school,0335,2016,economy,,0.915,0.928,,,Wheatley EC
+7,school,0335,2016,bl7,,0.915,0.925,,,Wheatley EC
+8,school,0335,2016,all,,0.916,0.934,,,Wheatley EC
+2,school,0336,2016,sped,,0.959,0.921,,,West EC
+3,school,0336,2016,mu7,,0.98,0.952,,,West EC
+4,school,0336,2016,male,,0.959,0.933,,,West EC
+5,school,0336,2016,lep,,0.964,0.948,,,West EC
+6,school,0336,2016,hi7,,0.963,0.947,,,West EC
+7,school,0336,2016,female,,0.956,0.935,,,West EC
+8,school,0336,2016,economy,,0.958,0.928,,,West EC
+9,school,0336,2016,bl7,,0.951,0.925,,,West EC
+10,school,0336,2016,all,,0.958,0.934,,,West EC
+2,school,0338,2016,male,,0.927,0.933,,,Whittier EC
+3,school,0338,2016,lep,,0.946,0.948,,,Whittier EC
+4,school,0338,2016,hi7,,0.936,0.947,,,Whittier EC
+5,school,0338,2016,female,,0.928,0.935,,,Whittier EC
+6,school,0338,2016,economy,,0.928,0.928,,,Whittier EC
+7,school,0338,2016,bl7,,0.926,0.925,,,Whittier EC
+8,school,0338,2016,all,,0.928,0.934,,,Whittier EC
+2,school,0339,2016,sped,,0.914,0.926,,,J O Wilson ES
+3,school,0339,2016,mu7,,0.936,0.953,,,J O Wilson ES
+4,school,0339,2016,male,,0.94,0.934,,,J O Wilson ES
+5,school,0339,2016,lep,,0.959,0.949,,,J O Wilson ES
+6,school,0339,2016,hi7,,0.946,0.948,,,J O Wilson ES
+7,school,0339,2016,female,,0.943,0.936,,,J O Wilson ES
+8,school,0339,2016,economy,,0.941,0.929,,,J O Wilson ES
+9,school,0339,2016,bl7,,0.939,0.926,,,J O Wilson ES
+10,school,0339,2016,all,,0.941,0.935,,,J O Wilson ES
+2,school,0344,2016,male,,0.902,0.934,,,King M L ES
+3,school,0344,2016,female,,0.919,0.936,,,King M L ES
+4,school,0344,2016,economy,,0.911,0.929,,,King M L ES
+5,school,0344,2016,bl7,,0.91,0.926,,,King M L ES
+6,school,0344,2016,all,,0.911,0.935,,,King M L ES
+2,school,0347,2016,male,,0.871,0.928,,,Brookland MS
+3,school,0347,2016,lep,,0.899,0.939,,,Brookland MS
+4,school,0347,2016,hi7,,0.936,0.942,,,Brookland MS
+5,school,0347,2016,female,,0.883,0.931,,,Brookland MS
+6,school,0347,2016,economy,,0.877,0.923,,,Brookland MS
+7,school,0347,2016,bl7,,0.873,0.922,,,Brookland MS
+8,school,0347,2016,all,,0.877,0.929,,,Brookland MS
+2,school,0349,2016,male,,0.931,0.934,,,Dorothy I Height ES
+3,school,0349,2016,lep,,0.936,0.949,,,Dorothy I Height ES
+4,school,0349,2016,hi7,,0.925,0.948,,,Dorothy I Height ES
+5,school,0349,2016,female,,0.94,0.936,,,Dorothy I Height ES
+6,school,0349,2016,economy,,0.935,0.929,,,Dorothy I Height ES
+7,school,0349,2016,bl7,,0.94,0.926,,,Dorothy I Height ES
+8,school,0349,2016,all,,0.935,0.935,,,Dorothy I Height ES
+2,school,0360,2016,sped,,0.961,0.921,,,Capitol Hill Montessori School at Logan
+3,school,0360,2016,mu7,,0.927,0.952,,,Capitol Hill Montessori School at Logan
+4,school,0360,2016,male,,0.957,0.933,,,Capitol Hill Montessori School at Logan
+5,school,0360,2016,female,,0.96,0.935,,,Capitol Hill Montessori School at Logan
+6,school,0360,2016,economy,,0.944,0.928,,,Capitol Hill Montessori School at Logan
+7,school,0360,2016,bl7,,0.956,0.925,,,Capitol Hill Montessori School at Logan
+8,school,0360,2016,all,,0.959,0.934,,,Capitol Hill Montessori School at Logan
+2,school,0370,2016,male,,0.917,0.934,,,Langley ES
+3,school,0370,2016,hi7,,0.931,0.948,,,Langley ES
+4,school,0370,2016,female,,0.929,0.936,,,Langley ES
+5,school,0370,2016,economy,,0.921,0.929,,,Langley ES
+6,school,0370,2016,bl7,,0.92,0.926,,,Langley ES
+7,school,0370,2016,all,,0.921,0.935,,,Langley ES
+2,school,0402,2016,male,,0.956,0.826,,,Benjamin Banneker HS
+3,school,0402,2016,hi7,,0.955,0.831,,,Benjamin Banneker HS
+4,school,0402,2016,female,,0.941,0.837,,,Benjamin Banneker HS
+5,school,0402,2016,economy,,0.945,0.819,,,Benjamin Banneker HS
+6,school,0402,2016,bl7,,0.943,0.823,,,Benjamin Banneker HS
+7,school,0402,2016,as7,,0.955,0.906,,,Benjamin Banneker HS
+8,school,0402,2016,all,,0.945,0.832,,,Benjamin Banneker HS
+2,school,0404,2016,male,,0.939,0.933,,,Browne EC
+3,school,0404,2016,lep,,0.968,0.948,,,Browne EC
+4,school,0404,2016,hi7,,0.944,0.947,,,Browne EC
+5,school,0404,2016,female,,0.938,0.935,,,Browne EC
+6,school,0404,2016,economy,,0.938,0.928,,,Browne EC
+7,school,0404,2016,bl7,,0.938,0.925,,,Browne EC
+8,school,0404,2016,all,,0.939,0.934,,,Browne EC
+2,school,0405,2016,sped,,0.934,0.908,,,Deal MS
+3,school,0405,2016,mu7,,0.955,0.946,,,Deal MS
+4,school,0405,2016,male,,0.95,0.928,,,Deal MS
+5,school,0405,2016,lep,,0.93,0.939,,,Deal MS
+6,school,0405,2016,hi7,,0.94,0.942,,,Deal MS
+7,school,0405,2016,female,,0.953,0.931,,,Deal MS
+8,school,0405,2016,economy,,0.942,0.923,,,Deal MS
+9,school,0405,2016,bl7,,0.953,0.922,,,Deal MS
+10,school,0405,2016,as7,,0.959,0.962,,,Deal MS
+11,school,0405,2016,all,,0.952,0.929,,,Deal MS
+2,school,0407,2016,male,,0.898,0.928,,,Eliot Hine MS
+3,school,0407,2016,female,,0.905,0.931,,,Eliot Hine MS
+4,school,0407,2016,economy,,0.901,0.923,,,Eliot Hine MS
+5,school,0407,2016,bl7,,0.902,0.922,,,Eliot Hine MS
+6,school,0407,2016,all,,0.902,0.929,,,Eliot Hine MS
+2,school,0409,2016,sped,,0.922,0.921,,,School Without Walls at Francis Stevens
+3,school,0409,2016,mu7,,0.949,0.952,,,School Without Walls at Francis Stevens
+4,school,0409,2016,male,,0.939,0.933,,,School Without Walls at Francis Stevens
+5,school,0409,2016,lep,,0.95,0.948,,,School Without Walls at Francis Stevens
+6,school,0409,2016,hi7,,0.937,0.947,,,School Without Walls at Francis Stevens
+7,school,0409,2016,female,,0.931,0.935,,,School Without Walls at Francis Stevens
+8,school,0409,2016,economy,,0.921,0.928,,,School Without Walls at Francis Stevens
+9,school,0409,2016,bl7,,0.929,0.925,,,School Without Walls at Francis Stevens
+10,school,0409,2016,as7,,0.934,0.962,,,School Without Walls at Francis Stevens
+11,school,0409,2016,all,,0.935,0.934,,,School Without Walls at Francis Stevens
+2,school,0413,2016,male,,0.903,0.928,,,Hart MS
+3,school,0413,2016,female,,0.926,0.931,,,Hart MS
+4,school,0413,2016,economy,,0.914,0.923,,,Hart MS
+5,school,0413,2016,bl7,,0.913,0.922,,,Hart MS
+6,school,0413,2016,all,,0.914,0.929,,,Hart MS
+2,school,0416,2016,male,,0.945,0.928,,,Johnson John Hayden MS
+3,school,0416,2016,female,,0.944,0.931,,,Johnson John Hayden MS
+4,school,0416,2016,economy,,0.945,0.923,,,Johnson John Hayden MS
+5,school,0416,2016,bl7,,0.944,0.922,,,Johnson John Hayden MS
+6,school,0416,2016,all,,0.945,0.929,,,Johnson John Hayden MS
+2,school,0417,2016,male,,0.916,0.928,,,Kramer MS
+3,school,0417,2016,female,,0.913,0.931,,,Kramer MS
+4,school,0417,2016,economy,,0.914,0.923,,,Kramer MS
+5,school,0417,2016,bl7,,0.914,0.922,,,Kramer MS
+6,school,0417,2016,all,,0.915,0.929,,,Kramer MS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,MacFarland MS
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,MacFarland MS
+2,school,0421,2016,male,,0.869,0.928,,,Kelly Miller MS
+3,school,0421,2016,lep,,0.938,0.939,,,Kelly Miller MS
+4,school,0421,2016,hi7,,0.916,0.942,,,Kelly Miller MS
+5,school,0421,2016,female,,0.882,0.931,,,Kelly Miller MS
+6,school,0421,2016,economy,,0.875,0.923,,,Kelly Miller MS
+7,school,0421,2016,bl7,,0.874,0.922,,,Kelly Miller MS
+8,school,0421,2016,all,,0.875,0.929,,,Kelly Miller MS
+2,school,0427,2016,male,,0.91,0.928,,,Sousa MS
+3,school,0427,2016,female,,0.913,0.931,,,Sousa MS
+4,school,0427,2016,economy,,0.911,0.923,,,Sousa MS
+5,school,0427,2016,bl7,,0.911,0.922,,,Sousa MS
+6,school,0427,2016,all,,0.912,0.929,,,Sousa MS
+2,school,0428,2016,sped,,0.924,0.908,,,Stuart Hobson MS Capitol Hill Cluster
+3,school,0428,2016,male,,0.947,0.928,,,Stuart Hobson MS Capitol Hill Cluster
+4,school,0428,2016,female,,0.948,0.931,,,Stuart Hobson MS Capitol Hill Cluster
+5,school,0428,2016,economy,,0.938,0.923,,,Stuart Hobson MS Capitol Hill Cluster
+6,school,0428,2016,bl7,,0.945,0.922,,,Stuart Hobson MS Capitol Hill Cluster
+7,school,0428,2016,all,,0.947,0.929,,,Stuart Hobson MS Capitol Hill Cluster
+2,school,0433,2016,male,,0.906,0.928,,,Jefferson Middle School Academy
+3,school,0433,2016,hi7,,0.902,0.942,,,Jefferson Middle School Academy
+4,school,0433,2016,female,,0.909,0.931,,,Jefferson Middle School Academy
+5,school,0433,2016,economy,,0.907,0.923,,,Jefferson Middle School Academy
+6,school,0433,2016,bl7,,0.906,0.922,,,Jefferson Middle School Academy
+7,school,0433,2016,all,,0.908,0.929,,,Jefferson Middle School Academy
+2,school,0435,2016,male,,0.882,0.928,,,McKinley MS
+3,school,0435,2016,hi7,,0.861,0.942,,,McKinley MS
+4,school,0435,2016,female,,0.868,0.931,,,McKinley MS
+5,school,0435,2016,economy,,0.875,0.923,,,McKinley MS
+6,school,0435,2016,bl7,,0.875,0.922,,,McKinley MS
+7,school,0435,2016,all,,0.875,0.929,,,McKinley MS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Ron Brown College Preparatory High School
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Ron Brown College Preparatory High School
+2,school,0442,2016,sped,,0.817,0.832,,,Columbia Heights EC
+3,school,0442,2016,male,,0.837,0.872,,,Columbia Heights EC
+4,school,0442,2016,lep,,0.844,0.863,,,Columbia Heights EC
+5,school,0442,2016,hi7,,0.847,0.878,,,Columbia Heights EC
+6,school,0442,2016,female,,0.84,0.879,,,Columbia Heights EC
+7,school,0442,2016,economy,,0.839,0.863,,,Columbia Heights EC
+8,school,0442,2016,bl7,,0.821,0.867,,,Columbia Heights EC
+9,school,0442,2016,as7,,0.871,0.932,,,Columbia Heights EC
+10,school,0442,2016,all,,0.839,0.875,,,Columbia Heights EC
+2,school,0450,2016,male,,0.592,0.826,,,Anacostia HS
+3,school,0450,2016,female,,0.603,0.837,,,Anacostia HS
+4,school,0450,2016,economy,,0.597,0.819,,,Anacostia HS
+5,school,0450,2016,bl7,,0.596,0.823,,,Anacostia HS
+6,school,0450,2016,all,,0.6,0.832,,,Anacostia HS
+2,school,0452,2016,male,,0.655,0.826,,,Ballou HS
+3,school,0452,2016,hi7,,0.704,0.831,,,Ballou HS
+4,school,0452,2016,female,,0.649,0.837,,,Ballou HS
+5,school,0452,2016,economy,,0.652,0.819,,,Ballou HS
+6,school,0452,2016,bl7,,0.651,0.823,,,Ballou HS
+7,school,0452,2016,all,,0.655,0.832,,,Ballou HS
+2,school,0454,2016,as7,,0.917,0.932,,,Cardozo EC
+3,school,0454,2016,all,,0.749,0.875,,,Cardozo EC
+4,school,0454,2016,wh7,,0.791,0.935,,,Cardozo EC
+5,school,0454,2016,sped,,0.688,0.832,,,Cardozo EC
+6,school,0454,2016,male,,0.737,0.872,,,Cardozo EC
+7,school,0454,2016,lep,,0.787,0.863,,,Cardozo EC
+8,school,0454,2016,hi7,,0.769,0.878,,,Cardozo EC
+9,school,0454,2016,female,,0.763,0.879,,,Cardozo EC
+10,school,0454,2016,economy,,0.747,0.863,,,Cardozo EC
+2,school,0455,2016,male,,0.815,0.826,,,Coolidge HS
+3,school,0455,2016,lep,,0.853,0.814,,,Coolidge HS
+4,school,0455,2016,hi7,,0.811,0.831,,,Coolidge HS
+5,school,0455,2016,female,,0.811,0.837,,,Coolidge HS
+6,school,0455,2016,economy,,0.813,0.819,,,Coolidge HS
+7,school,0455,2016,bl7,,0.815,0.823,,,Coolidge HS
+8,school,0455,2016,all,,0.816,0.832,,,Coolidge HS
+2,school,0456,2014,male,,0.6,0.74,,,Roosevelt STAY
+3,school,0456,2014,lep,,0.38,0.73,,,Roosevelt STAY
+4,school,0456,2014,hi7,,0.61,0.74,,,Roosevelt STAY
+5,school,0456,2014,female,,0.58,0.72,,,Roosevelt STAY
+6,school,0456,2014,economy,,0.56,0.73,,,Roosevelt STAY
+7,school,0456,2014,bl7,,0.59,0.72,,,Roosevelt STAY
+8,school,0456,2014,all,,0.59,0.73,,,Roosevelt STAY
+9,school,0456,2013,all,,0.66,,,,Roosevelt STAY
+2,school,0457,2016,male,,0.774,0.826,,,Eastern HS
+3,school,0457,2016,lep,,0.882,0.814,,,Eastern HS
+4,school,0457,2016,hi7,,0.855,0.831,,,Eastern HS
+5,school,0457,2016,female,,0.742,0.837,,,Eastern HS
+6,school,0457,2016,economy,,0.758,0.819,,,Eastern HS
+7,school,0457,2016,bl7,,0.755,0.823,,,Eastern HS
+8,school,0457,2016,all,,0.759,0.832,,,Eastern HS
+2,school,0458,2016,sped,,0.938,0.767,,,McKinley Technology HS
+3,school,0458,2016,mu7,,0.935,0.892,,,McKinley Technology HS
+4,school,0458,2016,male,,0.929,0.826,,,McKinley Technology HS
+5,school,0458,2016,hi7,,0.947,0.831,,,McKinley Technology HS
+6,school,0458,2016,female,,0.923,0.837,,,McKinley Technology HS
+7,school,0458,2016,economy,,0.925,0.819,,,McKinley Technology HS
+8,school,0458,2016,bl7,,0.923,0.823,,,McKinley Technology HS
+9,school,0458,2016,all,,0.925,0.832,,,McKinley Technology HS
+2,school,0459,2016,male,,0.755,0.826,,,Roosevelt HS
+3,school,0459,2016,lep,,0.762,0.814,,,Roosevelt HS
+4,school,0459,2016,hi7,,0.721,0.831,,,Roosevelt HS
+5,school,0459,2016,female,,0.76,0.837,,,Roosevelt HS
+6,school,0459,2016,economy,,0.757,0.819,,,Roosevelt HS
+7,school,0459,2016,bl7,,0.778,0.823,,,Roosevelt HS
+8,school,0459,2016,all,,0.759,0.832,,,Roosevelt HS
+2,school,0462,2014,male,,0.7,0.77,,,Ballou STAY
+3,school,0462,2014,hi7,,0.77,0.77,,,Ballou STAY
+4,school,0462,2014,female,,0.74,0.77,,,Ballou STAY
+5,school,0462,2014,economy,,0.56,0.75,,,Ballou STAY
+6,school,0462,2014,bl7,,0.73,0.76,,,Ballou STAY
+7,school,0462,2014,all,,0.73,0.77,,,Ballou STAY
+8,school,0462,2013,all,,0.82,,,,Ballou STAY
+2,school,0463,2016,sped,,0.808,0.767,,,Wilson HS
+3,school,0463,2016,mu7,,0.889,0.892,,,Wilson HS
+4,school,0463,2016,male,,0.855,0.826,,,Wilson HS
+5,school,0463,2016,lep,,0.838,0.814,,,Wilson HS
+6,school,0463,2016,hi7,,0.826,0.831,,,Wilson HS
+7,school,0463,2016,female,,0.852,0.837,,,Wilson HS
+8,school,0463,2016,economy,,0.809,0.819,,,Wilson HS
+9,school,0463,2016,bl7,,0.834,0.823,,,Wilson HS
+10,school,0463,2016,as7,,0.893,0.906,,,Wilson HS
+11,school,0463,2016,all,,0.853,0.832,,,Wilson HS
+2,school,0464,2016,male,,0.737,0.826,,,Woodson H D HS
+3,school,0464,2016,female,,0.722,0.837,,,Woodson H D HS
+4,school,0464,2016,economy,,0.73,0.819,,,Woodson H D HS
+5,school,0464,2016,bl7,,0.73,0.823,,,Woodson H D HS
+6,school,0464,2016,all,,0.732,0.832,,,Woodson H D HS
+2,school,0466,2016,mu7,,0.931,0.892,,,School Without Walls HS
+3,school,0466,2016,male,,0.932,0.826,,,School Without Walls HS
+4,school,0466,2016,hi7,,0.927,0.831,,,School Without Walls HS
+5,school,0466,2016,female,,0.922,0.837,,,School Without Walls HS
+6,school,0466,2016,economy,,0.916,0.819,,,School Without Walls HS
+7,school,0466,2016,bl7,,0.92,0.823,,,School Without Walls HS
+8,school,0466,2016,as7,,0.935,0.906,,,School Without Walls HS
+9,school,0466,2016,all,,0.926,0.832,,,School Without Walls HS
+2,school,0467,2016,male,,0.689,0.826,,,Dunbar HS
+3,school,0467,2016,lep,,0.621,0.814,,,Dunbar HS
+4,school,0467,2016,hi7,,0.673,0.831,,,Dunbar HS
+5,school,0467,2016,female,,0.686,0.837,,,Dunbar HS
+6,school,0467,2016,economy,,0.687,0.819,,,Dunbar HS
+7,school,0467,2016,bl7,,0.688,0.823,,,Dunbar HS
+8,school,0467,2016,all,,0.69,0.832,,,Dunbar HS
+2,school,0471,2016,sped,,0.884,0.767,,,Duke Ellington School of the Arts
+3,school,0471,2016,mu7,,0.911,0.892,,,Duke Ellington School of the Arts
+4,school,0471,2016,male,,0.913,0.826,,,Duke Ellington School of the Arts
+5,school,0471,2016,hi7,,0.903,0.831,,,Duke Ellington School of the Arts
+6,school,0471,2016,female,,0.905,0.837,,,Duke Ellington School of the Arts
+7,school,0471,2016,economy,,0.907,0.819,,,Duke Ellington School of the Arts
+8,school,0471,2016,bl7,,0.905,0.823,,,Duke Ellington School of the Arts
+9,school,0471,2016,as7,,0.946,0.906,,,Duke Ellington School of the Arts
+10,school,0471,2016,all,,0.908,0.832,,,Duke Ellington School of the Arts
+2,school,0474,2016,male,,0.609,0.587,,,Washington Metropolitan HS
+3,school,0474,2016,female,,0.544,0.626,,,Washington Metropolitan HS
+4,school,0474,2016,economy,,0.579,0.606,,,Washington Metropolitan HS
+5,school,0474,2016,bl7,,0.571,0.609,,,Washington Metropolitan HS
+6,school,0474,2016,all,,0.587,0.607,,,Washington Metropolitan HS
+2,school,0478,2016,male,,0.871,0.826,,,Phelps Architecture Construction and Engineering HS
+3,school,0478,2016,lep,,0.901,0.814,,,Phelps Architecture Construction and Engineering HS
+4,school,0478,2016,hi7,,0.817,0.831,,,Phelps Architecture Construction and Engineering HS
+5,school,0478,2016,female,,0.86,0.837,,,Phelps Architecture Construction and Engineering HS
+6,school,0478,2016,economy,,0.867,0.819,,,Phelps Architecture Construction and Engineering HS
+7,school,0478,2016,bl7,,0.868,0.823,,,Phelps Architecture Construction and Engineering HS
+8,school,0478,2016,all,,0.867,0.832,,,Phelps Architecture Construction and Engineering HS
+2,school,0480,2015,male,,0.911,0.702,,,Inspiring Youth Program
+3,school,0480,2015,bl7,,0.907,0.66,,,Inspiring Youth Program
+4,school,0480,2015,all,,0.914,0.68,,,Inspiring Youth Program
+2,school,0861,2015,male,,1,0.702,,,Youth Services Center
+3,school,0861,2015,hi7,,1,0.728,,,Youth Services Center
+4,school,0861,2015,female,,1,0.655,,,Youth Services Center
+5,school,0861,2015,bl7,,1,0.66,,,Youth Services Center
+6,school,0861,2015,all,,1,0.68,,,Youth Services Center
+2,school,0884,2016,male,,0.534,0.587,,,Luke Moore Alternative HS
+3,school,0884,2016,hi7,,0.531,0.565,,,Luke Moore Alternative HS
+4,school,0884,2016,female,,0.518,0.626,,,Luke Moore Alternative HS
+5,school,0884,2016,economy,,0.526,0.606,,,Luke Moore Alternative HS
+6,school,0884,2016,bl7,,0.525,0.609,,,Luke Moore Alternative HS
+7,school,0884,2016,all,,0.53,0.607,,,Luke Moore Alternative HS
+2,school,0947,2015,male,,0.687,0.702,,,CHOICE Academy at Wash Met
+3,school,0947,2015,female,,0.662,0.655,,,CHOICE Academy at Wash Met
+4,school,0947,2015,bl7,,0.683,0.66,,,CHOICE Academy at Wash Met
+5,school,0947,2015,all,,0.68,0.68,,,CHOICE Academy at Wash Met
+2,school,1137,2016,male,,0.833,0.914,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+3,school,1137,2016,lep,,0.95,0.929,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+4,school,1137,2016,female,,0.881,0.916,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+5,school,1137,2016,economy,,0.857,0.908,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+6,school,1137,2016,bl7,,0.855,0.905,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+7,school,1137,2016,all,,0.857,0.915,,,AppleTree Early Learning Center PCS Oklahoma Avenue
+2,school,0140,2016,sped,,0.907,0.905,,,AppleTree Early Learning Center PCS Columbia Heights
+3,school,0140,2016,male,,0.898,0.914,,,AppleTree Early Learning Center PCS Columbia Heights
+4,school,0140,2016,lep,,0.893,0.929,,,AppleTree Early Learning Center PCS Columbia Heights
+5,school,0140,2016,hi7,,0.864,0.924,,,AppleTree Early Learning Center PCS Columbia Heights
+6,school,0140,2016,female,,0.881,0.916,,,AppleTree Early Learning Center PCS Columbia Heights
+7,school,0140,2016,economy,,0.87,0.908,,,AppleTree Early Learning Center PCS Columbia Heights
+8,school,0140,2016,bl7,,0.879,0.905,,,AppleTree Early Learning Center PCS Columbia Heights
+9,school,0140,2016,all,,0.89,0.915,,,AppleTree Early Learning Center PCS Columbia Heights
+2,school,0141,2016,lep,,0.911,0.929,,,AppleTree Early Learning Center PCS Southwest
+3,school,0141,2016,female,,0.881,0.916,,,AppleTree Early Learning Center PCS Southwest
+4,school,0141,2016,economy,,0.869,0.908,,,AppleTree Early Learning Center PCS Southwest
+5,school,0141,2016,bl7,,0.873,0.905,,,AppleTree Early Learning Center PCS Southwest
+6,school,0141,2016,all,,0.876,0.915,,,AppleTree Early Learning Center PCS Southwest
+2,school,3072,2016,male,,0.856,0.914,,,AppleTree Early Learning Center PCS Southeast
+3,school,3072,2016,female,,0.836,0.916,,,AppleTree Early Learning Center PCS Southeast
+4,school,3072,2016,economy,,0.847,0.908,,,AppleTree Early Learning Center PCS Southeast
+5,school,3072,2016,bl7,,0.845,0.905,,,AppleTree Early Learning Center PCS Southeast
+6,school,3072,2016,all,,0.847,0.915,,,AppleTree Early Learning Center PCS Southeast
+2,school,3073,2016,male,,0.887,0.914,,,AppleTree Early Learning Center PCS Lincoln Park
+3,school,3073,2016,female,,0.929,0.916,,,AppleTree Early Learning Center PCS Lincoln Park
+4,school,3073,2016,economy,,0.881,0.908,,,AppleTree Early Learning Center PCS Lincoln Park
+5,school,3073,2016,bl7,,0.896,0.905,,,AppleTree Early Learning Center PCS Lincoln Park
+6,school,3073,2016,all,,0.911,0.915,,,AppleTree Early Learning Center PCS Lincoln Park
+2,school,0142,2016,sped,,0.899,0.923,,,Bridges PCS
+3,school,0142,2016,male,,0.916,0.931,,,Bridges PCS
+4,school,0142,2016,lep,,0.924,0.947,,,Bridges PCS
+5,school,0142,2016,hi7,,0.921,0.945,,,Bridges PCS
+6,school,0142,2016,female,,0.912,0.933,,,Bridges PCS
+7,school,0142,2016,economy,,0.907,0.926,,,Bridges PCS
+8,school,0142,2016,bl7,,0.897,0.923,,,Bridges PCS
+9,school,0142,2016,all,,0.914,0.932,,,Bridges PCS
+2,school,1207,2016,female,,0.885,0.837,,,Capital City PCS High School
+3,school,1207,2016,economy,,0.887,0.819,,,Capital City PCS High School
+4,school,1207,2016,bl7,,0.888,0.823,,,Capital City PCS High School
+5,school,1207,2016,as7,,0.92,0.906,,,Capital City PCS High School
+6,school,1207,2016,all,,0.89,0.832,,,Capital City PCS High School
+7,school,1207,2016,sped,,0.878,0.767,,,Capital City PCS High School
+8,school,1207,2016,male,,0.896,0.826,,,Capital City PCS High School
+9,school,1207,2016,lep,,0.869,0.814,,,Capital City PCS High School
+2,school,0182,2016,sped,,0.907,0.915,,,Capital City PCS Middle School
+3,school,0182,2016,male,,0.928,0.933,,,Capital City PCS Middle School
+4,school,0182,2016,lep,,0.936,0.944,,,Capital City PCS Middle School
+5,school,0182,2016,hi7,,0.931,0.947,,,Capital City PCS Middle School
+6,school,0182,2016,female,,0.925,0.936,,,Capital City PCS Middle School
+7,school,0182,2016,economy,,0.923,0.928,,,Capital City PCS Middle School
+8,school,0182,2016,bl7,,0.916,0.928,,,Capital City PCS Middle School
+9,school,0182,2016,all,,0.927,0.935,,,Capital City PCS Middle School
+2,school,0184,2016,sped,,0.925,0.925,,,Capital City PCS Lower School
+3,school,0184,2016,mu7,,0.948,0.953,,,Capital City PCS Lower School
+4,school,0184,2016,male,,0.925,0.933,,,Capital City PCS Lower School
+5,school,0184,2016,lep,,0.926,0.948,,,Capital City PCS Lower School
+6,school,0184,2016,hi7,,0.925,0.947,,,Capital City PCS Lower School
+7,school,0184,2016,female,,0.933,0.935,,,Capital City PCS Lower School
+8,school,0184,2016,economy,,0.92,0.927,,,Capital City PCS Lower School
+9,school,0184,2016,bl7,,0.922,0.924,,,Capital City PCS Lower School
+10,school,0184,2016,all,,0.929,0.934,,,Capital City PCS Lower School
+2,school,0102,2016,male,,0.913,0.928,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+3,school,0102,2016,hi7,,0.896,0.942,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+4,school,0102,2016,female,,0.927,0.931,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+5,school,0102,2016,economy,,0.921,0.923,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+6,school,0102,2016,bl7,,0.921,0.922,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+7,school,0102,2016,all,,0.92,0.929,,,Cesar Chavez PCS for Public Policy Parkside Middle School
+2,school,0109,2016,male,,0.905,0.826,,,Cesar Chavez PCS for Public Policy Parkside High School
+3,school,0109,2016,hi7,,0.89,0.831,,,Cesar Chavez PCS for Public Policy Parkside High School
+4,school,0109,2016,female,,0.899,0.837,,,Cesar Chavez PCS for Public Policy Parkside High School
+5,school,0109,2016,economy,,0.903,0.819,,,Cesar Chavez PCS for Public Policy Parkside High School
+6,school,0109,2016,bl7,,0.903,0.823,,,Cesar Chavez PCS for Public Policy Parkside High School
+7,school,0109,2016,all,,0.902,0.832,,,Cesar Chavez PCS for Public Policy Parkside High School
+2,school,0127,2016,male,,0.924,0.893,,,Cesar Chavez PCS for Public Policy Chavez Prep
+3,school,0127,2016,lep,,0.933,0.889,,,Cesar Chavez PCS for Public Policy Chavez Prep
+4,school,0127,2016,hi7,,0.933,0.906,,,Cesar Chavez PCS for Public Policy Chavez Prep
+5,school,0127,2016,female,,0.927,0.904,,,Cesar Chavez PCS for Public Policy Chavez Prep
+6,school,0127,2016,economy,,0.925,0.887,,,Cesar Chavez PCS for Public Policy Chavez Prep
+7,school,0127,2016,bl7,,0.913,0.889,,,Cesar Chavez PCS for Public Policy Chavez Prep
+8,school,0127,2016,all,,0.925,0.898,,,Cesar Chavez PCS for Public Policy Chavez Prep
+2,school,0153,2016,male,,0.901,0.826,,,Cesar Chavez PCS for Public Policy Capitol Hill
+3,school,0153,2016,lep,,0.897,0.814,,,Cesar Chavez PCS for Public Policy Capitol Hill
+4,school,0153,2016,hi7,,0.903,0.831,,,Cesar Chavez PCS for Public Policy Capitol Hill
+5,school,0153,2016,female,,0.904,0.837,,,Cesar Chavez PCS for Public Policy Capitol Hill
+6,school,0153,2016,economy,,0.903,0.819,,,Cesar Chavez PCS for Public Policy Capitol Hill
+7,school,0153,2016,bl7,,0.903,0.823,,,Cesar Chavez PCS for Public Policy Capitol Hill
+8,school,0153,2016,all,,0.903,0.832,,,Cesar Chavez PCS for Public Policy Capitol Hill
+2,school,0199,2016,sped,,0.949,0.926,,,DC Bilingual PCS
+3,school,0199,2016,male,,0.942,0.934,,,DC Bilingual PCS
+4,school,0199,2016,lep,,0.945,0.949,,,DC Bilingual PCS
+5,school,0199,2016,hi7,,0.945,0.948,,,DC Bilingual PCS
+6,school,0199,2016,female,,0.949,0.936,,,DC Bilingual PCS
+7,school,0199,2016,economy,,0.944,0.929,,,DC Bilingual PCS
+8,school,0199,2016,bl7,,0.941,0.926,,,DC Bilingual PCS
+9,school,0199,2016,am7,,0.943,0.936,,,DC Bilingual PCS
+10,school,0199,2016,all,,0.945,0.935,,,DC Bilingual PCS
+2,school,1110,2016,mu7,,0.929,0.952,,,DC Preparatory Academy PCS Benning Elementary School
+3,school,1110,2016,male,,0.929,0.931,,,DC Preparatory Academy PCS Benning Elementary School
+4,school,1110,2016,lep,,0.965,0.947,,,DC Preparatory Academy PCS Benning Elementary School
+5,school,1110,2016,hi7,,0.968,0.945,,,DC Preparatory Academy PCS Benning Elementary School
+6,school,1110,2016,female,,0.932,0.933,,,DC Preparatory Academy PCS Benning Elementary School
+7,school,1110,2016,economy,,0.931,0.926,,,DC Preparatory Academy PCS Benning Elementary School
+8,school,1110,2016,bl7,,0.929,0.923,,,DC Preparatory Academy PCS Benning Elementary School
+9,school,1110,2016,all,,0.931,0.932,,,DC Preparatory Academy PCS Benning Elementary School
+2,school,0130,2016,mu7,,0.95,0.952,,,DC Preparatory Academy PCS Edgewood Elementary School
+3,school,0130,2016,male,,0.946,0.931,,,DC Preparatory Academy PCS Edgewood Elementary School
+4,school,0130,2016,lep,,0.958,0.947,,,DC Preparatory Academy PCS Edgewood Elementary School
+5,school,0130,2016,hi7,,0.962,0.945,,,DC Preparatory Academy PCS Edgewood Elementary School
+6,school,0130,2016,female,,0.95,0.933,,,DC Preparatory Academy PCS Edgewood Elementary School
+7,school,0130,2016,economy,,0.943,0.926,,,DC Preparatory Academy PCS Edgewood Elementary School
+8,school,0130,2016,bl7,,0.946,0.923,,,DC Preparatory Academy PCS Edgewood Elementary School
+9,school,0130,2016,all,,0.948,0.932,,,DC Preparatory Academy PCS Edgewood Elementary School
+2,school,0196,2016,mu7,,0.934,0.952,,,DC Preparatory Academy PCS Edgewood Middle School
+3,school,0196,2016,male,,0.953,0.936,,,DC Preparatory Academy PCS Edgewood Middle School
+4,school,0196,2016,hi7,,0.953,0.951,,,DC Preparatory Academy PCS Edgewood Middle School
+5,school,0196,2016,female,,0.951,0.938,,,DC Preparatory Academy PCS Edgewood Middle School
+6,school,0196,2016,economy,,0.951,0.931,,,DC Preparatory Academy PCS Edgewood Middle School
+7,school,0196,2016,bl7,,0.953,0.93,,,DC Preparatory Academy PCS Edgewood Middle School
+8,school,0196,2016,all,,0.952,0.937,,,DC Preparatory Academy PCS Edgewood Middle School
+2,school,0218,2016,male,,0.919,0.941,,,DC Preparatory Academy PCS Benning Middle School
+3,school,0218,2016,female,,0.929,0.945,,,DC Preparatory Academy PCS Benning Middle School
+4,school,0218,2016,economy,,0.923,0.938,,,DC Preparatory Academy PCS Benning Middle School
+5,school,0218,2016,bl7,,0.924,0.936,,,DC Preparatory Academy PCS Benning Middle School
+6,school,0218,2016,all,,0.925,0.943,,,DC Preparatory Academy PCS Benning Middle School
+2,school,0276,2016,male,,0.91,0.914,,,DC Preparatory Academy PCS Anacostia Elementary School
+3,school,0276,2016,female,,0.869,0.916,,,DC Preparatory Academy PCS Anacostia Elementary School
+4,school,0276,2016,economy,,0.88,0.908,,,DC Preparatory Academy PCS Anacostia Elementary School
+5,school,0276,2016,bl7,,0.895,0.905,,,DC Preparatory Academy PCS Anacostia Elementary School
+6,school,0276,2016,all,,0.893,0.915,,,DC Preparatory Academy PCS Anacostia Elementary School
+2,school,1138,2016,mu7,,0.91,0.892,,,EL Haynes PCS High School
+3,school,1138,2016,male,,0.912,0.826,,,EL Haynes PCS High School
+4,school,1138,2016,lep,,0.91,0.814,,,EL Haynes PCS High School
+5,school,1138,2016,hi7,,0.911,0.831,,,EL Haynes PCS High School
+6,school,1138,2016,female,,0.908,0.837,,,EL Haynes PCS High School
+7,school,1138,2016,economy,,0.909,0.819,,,EL Haynes PCS High School
+8,school,1138,2016,bl7,,0.909,0.823,,,EL Haynes PCS High School
+9,school,1138,2016,all,,0.908,0.832,,,EL Haynes PCS High School
+2,school,1206,2016,sped,,0.943,0.925,,,EL Haynes PCS Elementary School
+3,school,1206,2016,mu7,,0.976,0.953,,,EL Haynes PCS Elementary School
+4,school,1206,2016,male,,0.944,0.933,,,EL Haynes PCS Elementary School
+5,school,1206,2016,lep,,0.945,0.948,,,EL Haynes PCS Elementary School
+6,school,1206,2016,hi7,,0.945,0.947,,,EL Haynes PCS Elementary School
+7,school,1206,2016,female,,0.952,0.935,,,EL Haynes PCS Elementary School
+8,school,1206,2016,economy,,0.939,0.927,,,EL Haynes PCS Elementary School
+9,school,1206,2016,bl7,,0.942,0.924,,,EL Haynes PCS Elementary School
+10,school,1206,2016,all,,0.948,0.934,,,EL Haynes PCS Elementary School
+2,school,0146,2016,sped,,0.916,0.915,,,EL Haynes PCS Middle School
+3,school,0146,2016,male,,0.936,0.933,,,EL Haynes PCS Middle School
+4,school,0146,2016,lep,,0.929,0.944,,,EL Haynes PCS Middle School
+5,school,0146,2016,hi7,,0.939,0.947,,,EL Haynes PCS Middle School
+6,school,0146,2016,female,,0.932,0.936,,,EL Haynes PCS Middle School
+7,school,0146,2016,economy,,0.931,0.928,,,EL Haynes PCS Middle School
+8,school,0146,2016,bl7,,0.928,0.928,,,EL Haynes PCS Middle School
+9,school,0146,2016,all,,0.934,0.935,,,EL Haynes PCS Middle School
+2,school,1125,2016,male,,0.905,0.931,,,Eagle Academy PCS Capitol Riverfront
+3,school,1125,2016,female,,0.928,0.933,,,Eagle Academy PCS Capitol Riverfront
+4,school,1125,2016,economy,,0.917,0.926,,,Eagle Academy PCS Capitol Riverfront
+5,school,1125,2016,bl7,,0.916,0.923,,,Eagle Academy PCS Capitol Riverfront
+6,school,1125,2016,all,,0.917,0.932,,,Eagle Academy PCS Capitol Riverfront
+2,school,0195,2016,male,,0.889,0.931,,,Eagle Academy PCS Congress Heights
+3,school,0195,2016,female,,0.892,0.933,,,Eagle Academy PCS Congress Heights
+4,school,0195,2016,economy,,0.89,0.926,,,Eagle Academy PCS Congress Heights
+5,school,0195,2016,bl7,,0.89,0.923,,,Eagle Academy PCS Congress Heights
+6,school,0195,2016,all,,0.89,0.932,,,Eagle Academy PCS Congress Heights
+2,school,0138,2016,male,,0.931,0.931,,,Early Childhood Academy PCS
+3,school,0138,2016,female,,0.935,0.933,,,Early Childhood Academy PCS
+4,school,0138,2016,economy,,0.933,0.926,,,Early Childhood Academy PCS
+5,school,0138,2016,bl7,,0.933,0.923,,,Early Childhood Academy PCS
+6,school,0138,2016,all,,0.933,0.932,,,Early Childhood Academy PCS
+2,school,0126,2016,male,,0.78,0.879,,,Briya PCS
+3,school,0126,2016,lep,,0.835,0.89,,,Briya PCS
+4,school,0126,2016,hi7,,0.717,0.817,,,Briya PCS
+5,school,0126,2016,female,,0.716,0.866,,,Briya PCS
+6,school,0126,2016,bl7,,0.744,0.877,,,Briya PCS
+7,school,0126,2016,as7,,0.768,0.879,,,Briya PCS
+8,school,0126,2016,all,,0.724,0.872,,,Briya PCS
+2,school,1124,2016,male,,0.918,0.872,,,Friendship PCS Technology Preparatory Academy Middle
+3,school,1124,2016,female,,0.918,0.879,,,Friendship PCS Technology Preparatory Academy Middle
+4,school,1124,2016,economy,,0.918,0.863,,,Friendship PCS Technology Preparatory Academy Middle
+5,school,1124,2016,bl7,,0.918,0.867,,,Friendship PCS Technology Preparatory Academy Middle
+6,school,1124,2016,all,,0.918,0.875,,,Friendship PCS Technology Preparatory Academy Middle
+2,school,0113,2016,male,,0.924,0.934,,,Friendship PCS Southeast Academy
+3,school,0113,2016,female,,0.934,0.936,,,Friendship PCS Southeast Academy
+4,school,0113,2016,economy,,0.929,0.929,,,Friendship PCS Southeast Academy
+5,school,0113,2016,bl7,,0.929,0.926,,,Friendship PCS Southeast Academy
+6,school,0113,2016,all,,0.929,0.935,,,Friendship PCS Southeast Academy
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Friendship PCS Technology Preparatory Academy High School
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Friendship PCS Technology Preparatory Academy High School
+2,school,0186,2016,male,,0.922,0.826,,,Friendship PCS Collegiate Academy
+3,school,0186,2016,female,,0.917,0.837,,,Friendship PCS Collegiate Academy
+4,school,0186,2016,economy,,0.92,0.819,,,Friendship PCS Collegiate Academy
+5,school,0186,2016,bl7,,0.919,0.823,,,Friendship PCS Collegiate Academy
+6,school,0186,2016,all,,0.92,0.832,,,Friendship PCS Collegiate Academy
+2,school,0268,2016,sped,,0.999,0.924,,,Friendship PCS Online
+3,school,0268,2016,male,,0.998,0.937,,,Friendship PCS Online
+4,school,0268,2016,female,,0.999,0.94,,,Friendship PCS Online
+5,school,0268,2016,economy,,0.999,0.933,,,Friendship PCS Online
+6,school,0268,2016,bl7,,0.998,0.93,,,Friendship PCS Online
+7,school,0268,2016,all,,0.999,0.938,,,Friendship PCS Online
+2,school,0269,2016,male,,0.919,0.934,,,Friendship PCS Armstrong
+3,school,0269,2016,lep,,0.94,0.949,,,Friendship PCS Armstrong
+4,school,0269,2016,hi7,,0.94,0.948,,,Friendship PCS Armstrong
+5,school,0269,2016,female,,0.929,0.936,,,Friendship PCS Armstrong
+6,school,0269,2016,economy,,0.924,0.929,,,Friendship PCS Armstrong
+7,school,0269,2016,bl7,,0.923,0.926,,,Friendship PCS Armstrong
+8,school,0269,2016,all,,0.924,0.935,,,Friendship PCS Armstrong
+2,school,0361,2016,male,,0.914,0.931,,,Friendship PCS Blow Pierce Elementary School
+3,school,0361,2016,lep,,0.953,0.947,,,Friendship PCS Blow Pierce Elementary School
+4,school,0361,2016,female,,0.928,0.933,,,Friendship PCS Blow Pierce Elementary School
+5,school,0361,2016,economy,,0.921,0.926,,,Friendship PCS Blow Pierce Elementary School
+6,school,0361,2016,bl7,,0.921,0.923,,,Friendship PCS Blow Pierce Elementary School
+7,school,0361,2016,all,,0.921,0.932,,,Friendship PCS Blow Pierce Elementary School
+2,school,0362,2016,male,,0.931,0.936,,,Friendship PCS Blow Pierce Middle School
+3,school,0362,2016,female,,0.931,0.938,,,Friendship PCS Blow Pierce Middle School
+4,school,0362,2016,economy,,0.931,0.931,,,Friendship PCS Blow Pierce Middle School
+5,school,0362,2016,bl7,,0.931,0.93,,,Friendship PCS Blow Pierce Middle School
+6,school,0362,2016,all,,0.931,0.937,,,Friendship PCS Blow Pierce Middle School
+2,school,0363,2016,male,,0.939,0.931,,,Friendship PCS Chamberlain Elementary School
+3,school,0363,2016,female,,0.945,0.933,,,Friendship PCS Chamberlain Elementary School
+4,school,0363,2016,economy,,0.942,0.926,,,Friendship PCS Chamberlain Elementary School
+5,school,0363,2016,bl7,,0.942,0.923,,,Friendship PCS Chamberlain Elementary School
+6,school,0363,2016,all,,0.942,0.932,,,Friendship PCS Chamberlain Elementary School
+2,school,0364,2016,male,,0.945,0.936,,,Friendship PCS Chamberlain Middle School
+3,school,0364,2016,female,,0.956,0.938,,,Friendship PCS Chamberlain Middle School
+4,school,0364,2016,economy,,0.951,0.931,,,Friendship PCS Chamberlain Middle School
+5,school,0364,2016,bl7,,0.951,0.93,,,Friendship PCS Chamberlain Middle School
+6,school,0364,2016,all,,0.951,0.937,,,Friendship PCS Chamberlain Middle School
+2,school,0365,2016,male,,0.93,0.931,,,Friendship PCS Woodridge Elementary School
+3,school,0365,2016,lep,,0.927,0.947,,,Friendship PCS Woodridge Elementary School
+4,school,0365,2016,hi7,,0.921,0.945,,,Friendship PCS Woodridge Elementary School
+5,school,0365,2016,female,,0.944,0.933,,,Friendship PCS Woodridge Elementary School
+6,school,0365,2016,economy,,0.936,0.926,,,Friendship PCS Woodridge Elementary School
+7,school,0365,2016,bl7,,0.936,0.923,,,Friendship PCS Woodridge Elementary School
+8,school,0365,2016,all,,0.936,0.932,,,Friendship PCS Woodridge Elementary School
+2,school,0366,2016,male,,0.939,0.936,,,Friendship PCS Woodridge Middle School
+3,school,0366,2016,female,,0.952,0.938,,,Friendship PCS Woodridge Middle School
+4,school,0366,2016,economy,,0.945,0.931,,,Friendship PCS Woodridge Middle School
+5,school,0366,2016,bl7,,0.944,0.93,,,Friendship PCS Woodridge Middle School
+6,school,0366,2016,all,,0.945,0.937,,,Friendship PCS Woodridge Middle School
+2,school,0114,2016,male,,0.954,0.933,,,Hope Community PCS Tolson
+3,school,0114,2016,lep,,0.972,0.948,,,Hope Community PCS Tolson
+4,school,0114,2016,hi7,,0.966,0.947,,,Hope Community PCS Tolson
+5,school,0114,2016,female,,0.957,0.935,,,Hope Community PCS Tolson
+6,school,0114,2016,economy,,0.955,0.928,,,Hope Community PCS Tolson
+7,school,0114,2016,bl7,,0.955,0.925,,,Hope Community PCS Tolson
+8,school,0114,2016,all,,0.956,0.934,,,Hope Community PCS Tolson
+2,school,0131,2016,male,,0.947,0.934,,,Hope Community PCS Lamond
+3,school,0131,2016,lep,,0.961,0.949,,,Hope Community PCS Lamond
+4,school,0131,2016,hi7,,0.962,0.948,,,Hope Community PCS Lamond
+5,school,0131,2016,female,,0.942,0.936,,,Hope Community PCS Lamond
+6,school,0131,2016,economy,,0.943,0.929,,,Hope Community PCS Lamond
+7,school,0131,2016,bl7,,0.942,0.926,,,Hope Community PCS Lamond
+8,school,0131,2016,all,,0.945,0.935,,,Hope Community PCS Lamond
+2,school,0188,2016,male,,0.924,0.921,,,Cedar Tree Academy PCS
+3,school,0188,2016,female,,0.915,0.923,,,Cedar Tree Academy PCS
+4,school,0188,2016,economy,,0.921,0.915,,,Cedar Tree Academy PCS
+5,school,0188,2016,bl7,,0.92,0.911,,,Cedar Tree Academy PCS
+6,school,0188,2016,all,,0.921,0.922,,,Cedar Tree Academy PCS
+2,school,0115,2016,male,,0.909,0.928,,,Howard University Middle School of Mathematics and Science PCS
+3,school,0115,2016,hi7,,0.934,0.942,,,Howard University Middle School of Mathematics and Science PCS
+4,school,0115,2016,female,,0.914,0.931,,,Howard University Middle School of Mathematics and Science PCS
+5,school,0115,2016,economy,,0.902,0.923,,,Howard University Middle School of Mathematics and Science PCS
+6,school,0115,2016,bl7,,0.91,0.922,,,Howard University Middle School of Mathematics and Science PCS
+7,school,0115,2016,all,,0.912,0.929,,,Howard University Middle School of Mathematics and Science PCS
+2,school,0161,2016,male,,0.909,0.933,,,Perry Street Preparatory PCS
+3,school,0161,2016,lep,,0.929,0.948,,,Perry Street Preparatory PCS
+4,school,0161,2016,female,,0.911,0.935,,,Perry Street Preparatory PCS
+5,school,0161,2016,economy,,0.906,0.928,,,Perry Street Preparatory PCS
+6,school,0161,2016,bl7,,0.909,0.925,,,Perry Street Preparatory PCS
+7,school,0161,2016,all,,0.91,0.934,,,Perry Street Preparatory PCS
+2,school,0163,2016,male,,0.898,0.826,,,IDEA PCS
+3,school,0163,2016,female,,0.905,0.837,,,IDEA PCS
+4,school,0163,2016,economy,,0.901,0.819,,,IDEA PCS
+5,school,0163,2016,bl7,,0.902,0.823,,,IDEA PCS
+6,school,0163,2016,all,,0.901,0.832,,,IDEA PCS
+2,school,0134,2016,male,,0.917,0.933,,,Ideal Academy PCS
+3,school,0134,2016,hi7,,0.935,0.947,,,Ideal Academy PCS
+4,school,0134,2016,female,,0.935,0.935,,,Ideal Academy PCS
+5,school,0134,2016,economy,,0.926,0.928,,,Ideal Academy PCS
+6,school,0134,2016,bl7,,0.925,0.925,,,Ideal Academy PCS
+7,school,0134,2016,all,,0.926,0.934,,,Ideal Academy PCS
+2,school,1121,2016,male,,0.933,0.94,,,KIPP DC PCS Promise Academy
+3,school,1121,2016,female,,0.934,0.942,,,KIPP DC PCS Promise Academy
+4,school,1121,2016,economy,,0.933,0.935,,,KIPP DC PCS Promise Academy
+5,school,1121,2016,bl7,,0.933,0.932,,,KIPP DC PCS Promise Academy
+6,school,1121,2016,all,,0.933,0.941,,,KIPP DC PCS Promise Academy
+2,school,1122,2016,male,,0.924,0.921,,,KIPP DC Discover Academy PCS
+3,school,1122,2016,female,,0.918,0.923,,,KIPP DC Discover Academy PCS
+4,school,1122,2016,economy,,0.921,0.915,,,KIPP DC Discover Academy PCS
+5,school,1122,2016,bl7,,0.922,0.911,,,KIPP DC Discover Academy PCS
+6,school,1122,2016,all,,0.921,0.922,,,KIPP DC Discover Academy PCS
+2,school,1123,2016,male,,0.926,0.826,,,KIPP DC College Preparatory Academy PCS
+3,school,1123,2016,female,,0.914,0.837,,,KIPP DC College Preparatory Academy PCS
+4,school,1123,2016,economy,,0.919,0.819,,,KIPP DC College Preparatory Academy PCS
+5,school,1123,2016,bl7,,0.919,0.823,,,KIPP DC College Preparatory Academy PCS
+6,school,1123,2016,all,,0.919,0.832,,,KIPP DC College Preparatory Academy PCS
+2,school,1129,2016,male,,0.911,0.921,,,KIPP DC Grow Academy PCS
+3,school,1129,2016,female,,0.928,0.923,,,KIPP DC Grow Academy PCS
+4,school,1129,2016,economy,,0.919,0.915,,,KIPP DC Grow Academy PCS
+5,school,1129,2016,bl7,,0.918,0.911,,,KIPP DC Grow Academy PCS
+6,school,1129,2016,all,,0.919,0.922,,,KIPP DC Grow Academy PCS
+2,school,0116,2016,male,,0.919,0.933,,,KIPP DC AIM Academy PCS
+3,school,0116,2016,female,,0.922,0.936,,,KIPP DC AIM Academy PCS
+4,school,0116,2016,economy,,0.921,0.928,,,KIPP DC AIM Academy PCS
+5,school,0116,2016,bl7,,0.921,0.928,,,KIPP DC AIM Academy PCS
+6,school,0116,2016,all,,0.921,0.935,,,KIPP DC AIM Academy PCS
+2,school,0121,2016,male,,0.926,0.933,,,KIPP DC WILL Academy PCS
+3,school,0121,2016,female,,0.927,0.936,,,KIPP DC WILL Academy PCS
+4,school,0121,2016,economy,,0.927,0.928,,,KIPP DC WILL Academy PCS
+5,school,0121,2016,bl7,,0.926,0.928,,,KIPP DC WILL Academy PCS
+6,school,0121,2016,all,,0.926,0.935,,,KIPP DC WILL Academy PCS
+2,school,0132,2016,male,,0.916,0.914,,,KIPP DC LEAP Academy PCS
+3,school,0132,2016,female,,0.913,0.916,,,KIPP DC LEAP Academy PCS
+4,school,0132,2016,economy,,0.914,0.908,,,KIPP DC LEAP Academy PCS
+5,school,0132,2016,bl7,,0.914,0.905,,,KIPP DC LEAP Academy PCS
+6,school,0132,2016,all,,0.914,0.915,,,KIPP DC LEAP Academy PCS
+2,school,0189,2016,male,,0.942,0.933,,,KIPP DC KEY Academy PCS
+3,school,0189,2016,female,,0.936,0.936,,,KIPP DC KEY Academy PCS
+4,school,0189,2016,economy,,0.939,0.928,,,KIPP DC KEY Academy PCS
+5,school,0189,2016,bl7,,0.938,0.928,,,KIPP DC KEY Academy PCS
+6,school,0189,2016,all,,0.939,0.935,,,KIPP DC KEY Academy PCS
+2,school,0190,2016,male,,0.938,0.942,,,KIPP DC Lead Academy PCS
+3,school,0190,2016,hi7,,0.946,0.956,,,KIPP DC Lead Academy PCS
+4,school,0190,2016,female,,0.944,0.944,,,KIPP DC Lead Academy PCS
+5,school,0190,2016,economy,,0.941,0.937,,,KIPP DC Lead Academy PCS
+6,school,0190,2016,bl7,,0.941,0.934,,,KIPP DC Lead Academy PCS
+7,school,0190,2016,all,,0.941,0.943,,,KIPP DC Lead Academy PCS
+2,school,0209,2016,male,,0.923,0.921,,,KIPP DC Connect Academy PCS
+3,school,0209,2016,female,,0.926,0.923,,,KIPP DC Connect Academy PCS
+4,school,0209,2016,economy,,0.924,0.915,,,KIPP DC Connect Academy PCS
+5,school,0209,2016,bl7,,0.925,0.911,,,KIPP DC Connect Academy PCS
+6,school,0209,2016,all,,0.924,0.922,,,KIPP DC Connect Academy PCS
+2,school,0214,2016,male,,0.931,0.939,,,KIPP DC Spring Academy PCS
+3,school,0214,2016,female,,0.925,0.941,,,KIPP DC Spring Academy PCS
+4,school,0214,2016,economy,,0.928,0.934,,,KIPP DC Spring Academy PCS
+5,school,0214,2016,bl7,,0.929,0.931,,,KIPP DC Spring Academy PCS
+6,school,0214,2016,all,,0.928,0.94,,,KIPP DC Spring Academy PCS
+2,school,0236,2016,male,,0.921,0.921,,,KIPP DC Arts and Technology Academy PCS
+3,school,0236,2016,female,,0.907,0.923,,,KIPP DC Arts and Technology Academy PCS
+4,school,0236,2016,economy,,0.914,0.915,,,KIPP DC Arts and Technology Academy PCS
+5,school,0236,2016,bl7,,0.914,0.911,,,KIPP DC Arts and Technology Academy PCS
+6,school,0236,2016,all,,0.914,0.922,,,KIPP DC Arts and Technology Academy PCS
+2,school,0237,2016,male,,0.914,0.942,,,KIPP DC Quest Academy PCS
+3,school,0237,2016,female,,0.929,0.944,,,KIPP DC Quest Academy PCS
+4,school,0237,2016,economy,,0.922,0.937,,,KIPP DC Quest Academy PCS
+5,school,0237,2016,bl7,,0.922,0.934,,,KIPP DC Quest Academy PCS
+6,school,0237,2016,all,,0.922,0.943,,,KIPP DC Quest Academy PCS
+2,school,0242,2016,male,,0.925,0.936,,,KIPP DC Northeast Academy PCS
+3,school,0242,2016,female,,0.941,0.941,,,KIPP DC Northeast Academy PCS
+4,school,0242,2016,economy,,0.934,0.933,,,KIPP DC Northeast Academy PCS
+5,school,0242,2016,bl7,,0.933,0.932,,,KIPP DC Northeast Academy PCS
+6,school,0242,2016,all,,0.933,0.939,,,KIPP DC Northeast Academy PCS
+2,school,0243,2016,male,,0.918,0.94,,,KIPP DC Valor Academy PCS
+3,school,0243,2016,female,,0.937,0.944,,,KIPP DC Valor Academy PCS
+4,school,0243,2016,economy,,0.929,0.936,,,KIPP DC Valor Academy PCS
+5,school,0243,2016,bl7,,0.928,0.935,,,KIPP DC Valor Academy PCS
+6,school,0243,2016,all,,0.928,0.942,,,KIPP DC Valor Academy PCS
+2,school,3071,2016,male,,0.93,0.942,,,KIPP DC Heights Academy PCS
+3,school,3071,2016,female,,0.935,0.944,,,KIPP DC Heights Academy PCS
+4,school,3071,2016,economy,,0.933,0.937,,,KIPP DC Heights Academy PCS
+5,school,3071,2016,bl7,,0.933,0.934,,,KIPP DC Heights Academy PCS
+6,school,3071,2016,all,,0.933,0.943,,,KIPP DC Heights Academy PCS
+2,school,0193,2016,sped,,0.926,0.926,,,Latin American Montessori Bilingual PCS
+3,school,0193,2016,mu7,,0.942,0.953,,,Latin American Montessori Bilingual PCS
+4,school,0193,2016,male,,0.935,0.934,,,Latin American Montessori Bilingual PCS
+5,school,0193,2016,lep,,0.925,0.949,,,Latin American Montessori Bilingual PCS
+6,school,0193,2016,hi7,,0.93,0.948,,,Latin American Montessori Bilingual PCS
+7,school,0193,2016,female,,0.936,0.936,,,Latin American Montessori Bilingual PCS
+8,school,0193,2016,economy,,0.926,0.929,,,Latin American Montessori Bilingual PCS
+9,school,0193,2016,bl7,,0.94,0.926,,,Latin American Montessori Bilingual PCS
+10,school,0193,2016,all,,0.936,0.935,,,Latin American Montessori Bilingual PCS
+2,school,0128,2016,male,,0.718,0.707,,,Youthbuild PCS
+3,school,0128,2016,lep,,0.77,0.744,,,Youthbuild PCS
+4,school,0128,2016,hi7,,0.716,0.724,,,Youthbuild PCS
+5,school,0128,2016,female,,0.655,0.705,,,Youthbuild PCS
+6,school,0128,2016,bl7,,0.68,0.669,,,Youthbuild PCS
+7,school,0128,2016,all,,0.691,0.706,,,Youthbuild PCS
+2,school,0135,2016,sped,,0.905,0.921,,,Mary McLeod Bethune Day Academy PCS
+3,school,0135,2016,male,,0.91,0.933,,,Mary McLeod Bethune Day Academy PCS
+4,school,0135,2016,lep,,0.926,0.948,,,Mary McLeod Bethune Day Academy PCS
+5,school,0135,2016,hi7,,0.924,0.947,,,Mary McLeod Bethune Day Academy PCS
+6,school,0135,2016,female,,0.921,0.935,,,Mary McLeod Bethune Day Academy PCS
+7,school,0135,2016,economy,,0.915,0.928,,,Mary McLeod Bethune Day Academy PCS
+8,school,0135,2016,bl7,,0.914,0.925,,,Mary McLeod Bethune Day Academy PCS
+9,school,0135,2016,all,,0.916,0.934,,,Mary McLeod Bethune Day Academy PCS
+2,school,0101,2016,bl7,,0.696,0.609,,,Maya Angelou PCS - High School
+3,school,0101,2016,economy,,0.696,0.606,,,Maya Angelou PCS - High School
+4,school,0101,2016,female,,0.705,0.626,,,Maya Angelou PCS - High School
+5,school,0101,2016,male,,0.687,0.587,,,Maya Angelou PCS - High School
+6,school,0101,2016,sped,,0.662,0.59,,,Maya Angelou PCS - High School
+2,school,0137,2016,male,,0.67,0.707,,,Maya Angelou PCS Young Adult Learning Center
+3,school,0137,2016,female,,0.627,0.705,,,Maya Angelou PCS Young Adult Learning Center
+4,school,0137,2016,bl7,,0.655,0.669,,,Maya Angelou PCS Young Adult Learning Center
+5,school,0137,2016,all,,0.653,0.706,,,Maya Angelou PCS Young Adult Learning Center
+2,school,0165,2016,sped,,0.917,0.921,,,Meridian PCS
+3,school,0165,2016,male,,0.91,0.933,,,Meridian PCS
+4,school,0165,2016,lep,,0.939,0.948,,,Meridian PCS
+5,school,0165,2016,hi7,,0.929,0.947,,,Meridian PCS
+6,school,0165,2016,female,,0.909,0.935,,,Meridian PCS
+7,school,0165,2016,economy,,0.909,0.928,,,Meridian PCS
+8,school,0165,2016,bl7,,0.895,0.925,,,Meridian PCS
+9,school,0165,2016,as7,,0.961,0.962,,,Meridian PCS
+10,school,0165,2016,all,,0.909,0.934,,,Meridian PCS
+2,school,0170,2016,male,,0.917,0.928,,,Paul PCS Middle School
+3,school,0170,2016,lep,,0.93,0.939,,,Paul PCS Middle School
+4,school,0170,2016,hi7,,0.933,0.942,,,Paul PCS Middle School
+5,school,0170,2016,female,,0.923,0.931,,,Paul PCS Middle School
+6,school,0170,2016,economy,,0.914,0.923,,,Paul PCS Middle School
+7,school,0170,2016,bl7,,0.917,0.922,,,Paul PCS Middle School
+8,school,0170,2016,all,,0.92,0.929,,,Paul PCS Middle School
+2,school,0222,2016,male,,0.919,0.826,,,Paul PCS International High School
+3,school,0222,2016,lep,,0.925,0.814,,,Paul PCS International High School
+4,school,0222,2016,hi7,,0.917,0.831,,,Paul PCS International High School
+5,school,0222,2016,female,,0.903,0.837,,,Paul PCS International High School
+6,school,0222,2016,economy,,0.901,0.819,,,Paul PCS International High School
+7,school,0222,2016,bl7,,0.908,0.823,,,Paul PCS International High School
+8,school,0222,2016,all,,0.911,0.832,,,Paul PCS International High School
+2,school,0173,2016,female,,0.939,0.936,,,Roots PCS
+3,school,0173,2016,economy,,0.925,0.929,,,Roots PCS
+4,school,0173,2016,bl7,,0.928,0.926,,,Roots PCS
+5,school,0173,2016,all,,0.928,0.935,,,Roots PCS
+2,school,0174,2016,male,,0.952,0.872,,,SEED PCS of Washington DC
+3,school,0174,2016,female,,0.956,0.879,,,SEED PCS of Washington DC
+4,school,0174,2016,economy,,0.953,0.863,,,SEED PCS of Washington DC
+5,school,0174,2016,bl7,,0.954,0.867,,,SEED PCS of Washington DC
+6,school,0174,2016,all,,0.954,0.875,,,SEED PCS of Washington DC
+2,school,1047,2016,bl7,,0.873,0.882,,,St. Coletta Special Education PCS
+3,school,1047,2016,economy,,0.864,0.877,,,St. Coletta Special Education PCS
+4,school,1047,2016,female,,0.864,0.87,,,St. Coletta Special Education PCS
+5,school,1047,2016,hi7,,0.834,0.853,,,St. Coletta Special Education PCS
+6,school,1047,2016,lep,,0.846,0.863,,,St. Coletta Special Education PCS
+7,school,1047,2016,male,,0.873,0.885,,,St. Coletta Special Education PCS
+8,school,1047,2016,mu7,,0.9,0.9,,,St. Coletta Special Education PCS
+9,school,1047,2016,sped,,0.87,0.879,,,St. Coletta Special Education PCS
+10,school,1047,2016,wh7,,0.889,0.879,,,St. Coletta Special Education PCS
+2,school,0159,2016,sped,,0.95,0.926,,,Elsie Whitlow Stokes Community Freedom PCS
+3,school,0159,2016,mu7,,0.97,0.953,,,Elsie Whitlow Stokes Community Freedom PCS
+4,school,0159,2016,male,,0.957,0.934,,,Elsie Whitlow Stokes Community Freedom PCS
+5,school,0159,2016,lep,,0.946,0.949,,,Elsie Whitlow Stokes Community Freedom PCS
+6,school,0159,2016,hi7,,0.946,0.948,,,Elsie Whitlow Stokes Community Freedom PCS
+7,school,0159,2016,female,,0.953,0.936,,,Elsie Whitlow Stokes Community Freedom PCS
+8,school,0159,2016,economy,,0.947,0.929,,,Elsie Whitlow Stokes Community Freedom PCS
+9,school,0159,2016,bl7,,0.955,0.926,,,Elsie Whitlow Stokes Community Freedom PCS
+10,school,0159,2016,all,,0.955,0.935,,,Elsie Whitlow Stokes Community Freedom PCS
+2,school,0168,2016,male,,0.742,0.707,,,The Next Step El Proximo Paso PCS
+3,school,0168,2016,lep,,0.743,0.744,,,The Next Step El Proximo Paso PCS
+4,school,0168,2016,hi7,,0.733,0.724,,,The Next Step El Proximo Paso PCS
+5,school,0168,2016,female,,0.709,0.705,,,The Next Step El Proximo Paso PCS
+6,school,0168,2016,bl7,,0.7,0.669,,,The Next Step El Proximo Paso PCS
+7,school,0168,2016,all,,0.729,0.706,,,The Next Step El Proximo Paso PCS
+2,school,0191,2016,male,,0.94,0.826,,,Thurgood Marshall Academy PCS
+3,school,0191,2016,female,,0.934,0.837,,,Thurgood Marshall Academy PCS
+4,school,0191,2016,economy,,0.93,0.819,,,Thurgood Marshall Academy PCS
+5,school,0191,2016,bl7,,0.937,0.823,,,Thurgood Marshall Academy PCS
+6,school,0191,2016,all,,0.937,0.832,,,Thurgood Marshall Academy PCS
+2,school,0198,2016,sped,,0.921,0.921,,,Two Rivers PCS 4th St
+3,school,0198,2016,mu7,,0.918,0.952,,,Two Rivers PCS 4th St
+4,school,0198,2016,male,,0.933,0.933,,,Two Rivers PCS 4th St
+5,school,0198,2016,lep,,0.955,0.948,,,Two Rivers PCS 4th St
+6,school,0198,2016,hi7,,0.953,0.947,,,Two Rivers PCS 4th St
+7,school,0198,2016,female,,0.94,0.935,,,Two Rivers PCS 4th St
+8,school,0198,2016,economy,,0.924,0.928,,,Two Rivers PCS 4th St
+9,school,0198,2016,bl7,,0.928,0.925,,,Two Rivers PCS 4th St
+10,school,0198,2016,all,,0.936,0.934,,,Two Rivers PCS 4th St
+2,school,0270,2016,sped,,0.878,0.918,,,Two Rivers PCS Young
+3,school,0270,2016,mu7,,0.951,0.95,,,Two Rivers PCS Young
+4,school,0270,2016,male,,0.922,0.926,,,Two Rivers PCS Young
+5,school,0270,2016,hi7,,0.909,0.938,,,Two Rivers PCS Young
+6,school,0270,2016,female,,0.928,0.927,,,Two Rivers PCS Young
+7,school,0270,2016,economy,,0.904,0.919,,,Two Rivers PCS Young
+8,school,0270,2016,bl7,,0.917,0.916,,,Two Rivers PCS Young
+9,school,0270,2016,all,,0.925,0.926,,,Two Rivers PCS Young
+2,school,1118,2016,sped,,0.952,0.767,,,Washington Latin PCS Upper School
+3,school,1118,2016,male,,0.946,0.826,,,Washington Latin PCS Upper School
+4,school,1118,2016,hi7,,0.927,0.831,,,Washington Latin PCS Upper School
+5,school,1118,2016,female,,0.946,0.837,,,Washington Latin PCS Upper School
+6,school,1118,2016,economy,,0.93,0.819,,,Washington Latin PCS Upper School
+7,school,1118,2016,bl7,,0.95,0.823,,,Washington Latin PCS Upper School
+8,school,1118,2016,as7,,0.854,0.906,,,Washington Latin PCS Upper School
+9,school,1118,2016,all,,0.946,0.832,,,Washington Latin PCS Upper School
+2,school,0125,2016,sped,,0.96,0.915,,,Washington Latin PCS Middle School
+3,school,0125,2016,mu7,,0.957,0.949,,,Washington Latin PCS Middle School
+4,school,0125,2016,male,,0.969,0.933,,,Washington Latin PCS Middle School
+5,school,0125,2016,hi7,,0.96,0.947,,,Washington Latin PCS Middle School
+6,school,0125,2016,female,,0.968,0.936,,,Washington Latin PCS Middle School
+7,school,0125,2016,economy,,0.968,0.928,,,Washington Latin PCS Middle School
+8,school,0125,2016,bl7,,0.969,0.928,,,Washington Latin PCS Middle School
+9,school,0125,2016,as7,,0.971,0.965,,,Washington Latin PCS Middle School
+10,school,0125,2016,all,,0.968,0.935,,,Washington Latin PCS Middle School
+2,school,0178,2016,male,,0.911,0.826,,,Washington Mathematics Science Technology PCHS
+3,school,0178,2016,female,,0.911,0.837,,,Washington Mathematics Science Technology PCHS
+4,school,0178,2016,economy,,0.91,0.819,,,Washington Mathematics Science Technology PCHS
+5,school,0178,2016,bl7,,0.91,0.823,,,Washington Mathematics Science Technology PCHS
+6,school,0178,2016,all,,0.911,0.832,,,Washington Mathematics Science Technology PCHS
+2,school,0210,2016,bl7,,0.904,0.925,,,City Arts & Prep PCS
+3,school,0210,2016,economy,,0.905,0.928,,,City Arts & Prep PCS
+4,school,0210,2016,female,,0.905,0.935,,,City Arts & Prep PCS
+5,school,0210,2016,hi7,,0.936,0.947,,,City Arts & Prep PCS
+6,school,0210,2016,lep,,0.937,0.948,,,City Arts & Prep PCS
+7,school,0210,2016,male,,0.906,0.933,,,City Arts & Prep PCS
+8,school,0210,2016,sped,,0.893,0.921,,,City Arts & Prep PCS
+2,school,1100,2016,male,,0.929,0.936,,,Achievement Preparatory Academy PCS Wahler Place Middle School
+3,school,1100,2016,female,,0.941,0.938,,,Achievement Preparatory Academy PCS Wahler Place Middle School
+4,school,1100,2016,economy,,0.93,0.931,,,Achievement Preparatory Academy PCS Wahler Place Middle School
+5,school,1100,2016,bl7,,0.935,0.93,,,Achievement Preparatory Academy PCS Wahler Place Middle School
+6,school,1100,2016,all,,0.935,0.937,,,Achievement Preparatory Academy PCS Wahler Place Middle School
+2,school,0217,2016,male,,0.906,0.938,,,Achievement Preparatory Academy PCS Wahler Place Elementary School
+3,school,0217,2016,female,,0.916,0.941,,,Achievement Preparatory Academy PCS Wahler Place Elementary School
+4,school,0217,2016,economy,,0.91,0.934,,,Achievement Preparatory Academy PCS Wahler Place Elementary School
+5,school,0217,2016,bl7,,0.911,0.931,,,Achievement Preparatory Academy PCS Wahler Place Elementary School
+6,school,0217,2016,all,,0.91,0.94,,,Achievement Preparatory Academy PCS Wahler Place Elementary School
+2,school,1103,2016,male,,0.976,0.935,,,Center City PCS Brightwood
+3,school,1103,2016,lep,,0.978,0.95,,,Center City PCS Brightwood
+4,school,1103,2016,hi7,,0.976,0.949,,,Center City PCS Brightwood
+5,school,1103,2016,female,,0.981,0.937,,,Center City PCS Brightwood
+6,school,1103,2016,economy,,0.979,0.93,,,Center City PCS Brightwood
+7,school,1103,2016,bl7,,0.982,0.928,,,Center City PCS Brightwood
+8,school,1103,2016,am7,,0.971,0.938,,,Center City PCS Brightwood
+9,school,1103,2016,all,,0.978,0.936,,,Center City PCS Brightwood
+2,school,1104,2016,male,,0.909,0.935,,,Center City PCS Capitol Hill
+3,school,1104,2016,female,,0.902,0.937,,,Center City PCS Capitol Hill
+4,school,1104,2016,economy,,0.893,0.93,,,Center City PCS Capitol Hill
+5,school,1104,2016,bl7,,0.907,0.928,,,Center City PCS Capitol Hill
+6,school,1104,2016,all,,0.905,0.936,,,Center City PCS Capitol Hill
+2,school,1105,2016,male,,0.931,0.935,,,Center City PCS Congress Heights
+3,school,1105,2016,female,,0.927,0.937,,,Center City PCS Congress Heights
+4,school,1105,2016,economy,,0.929,0.93,,,Center City PCS Congress Heights
+5,school,1105,2016,bl7,,0.929,0.928,,,Center City PCS Congress Heights
+6,school,1105,2016,all,,0.929,0.936,,,Center City PCS Congress Heights
+2,school,1106,2016,male,,0.945,0.935,,,Center City PCS Petworth
+3,school,1106,2016,lep,,0.955,0.95,,,Center City PCS Petworth
+4,school,1106,2016,hi7,,0.947,0.949,,,Center City PCS Petworth
+5,school,1106,2016,female,,0.947,0.937,,,Center City PCS Petworth
+6,school,1106,2016,economy,,0.947,0.93,,,Center City PCS Petworth
+7,school,1106,2016,bl7,,0.944,0.928,,,Center City PCS Petworth
+8,school,1106,2016,all,,0.946,0.936,,,Center City PCS Petworth
+2,school,1107,2016,male,,0.935,0.935,,,Center City PCS Shaw
+3,school,1107,2016,lep,,0.959,0.95,,,Center City PCS Shaw
+4,school,1107,2016,hi7,,0.961,0.949,,,Center City PCS Shaw
+5,school,1107,2016,female,,0.935,0.937,,,Center City PCS Shaw
+6,school,1107,2016,economy,,0.936,0.93,,,Center City PCS Shaw
+7,school,1107,2016,bl7,,0.923,0.928,,,Center City PCS Shaw
+8,school,1107,2016,all,,0.935,0.936,,,Center City PCS Shaw
+2,school,1108,2016,male,,0.899,0.935,,,Center City PCS Trinidad
+3,school,1108,2016,female,,0.908,0.937,,,Center City PCS Trinidad
+4,school,1108,2016,economy,,0.903,0.93,,,Center City PCS Trinidad
+5,school,1108,2016,bl7,,0.902,0.928,,,Center City PCS Trinidad
+6,school,1108,2016,all,,0.903,0.936,,,Center City PCS Trinidad
+2,school,1113,2016,female,,0.903,0.936,,,Excel Academy PCS
+3,school,1113,2016,economy,,0.903,0.929,,,Excel Academy PCS
+4,school,1113,2016,bl7,,0.903,0.926,,,Excel Academy PCS
+5,school,1113,2016,all,,0.903,0.935,,,Excel Academy PCS
+2,school,1117,2016,sped,,0.964,0.926,,,Washington Yu Ying PCS
+3,school,1117,2016,mu7,,0.957,0.953,,,Washington Yu Ying PCS
+4,school,1117,2016,male,,0.962,0.934,,,Washington Yu Ying PCS
+5,school,1117,2016,lep,,0.964,0.949,,,Washington Yu Ying PCS
+6,school,1117,2016,hi7,,0.964,0.948,,,Washington Yu Ying PCS
+7,school,1117,2016,female,,0.961,0.936,,,Washington Yu Ying PCS
+8,school,1117,2016,economy,,0.952,0.929,,,Washington Yu Ying PCS
+9,school,1117,2016,bl7,,0.96,0.926,,,Washington Yu Ying PCS
+10,school,1117,2016,as7,,0.963,0.962,,,Washington Yu Ying PCS
+11,school,1117,2016,all,,0.962,0.935,,,Washington Yu Ying PCS
+2,school,1119,2016,male,,0.732,0.707,,,Carlos Rosario International PCS
+3,school,1119,2016,lep,,0.761,0.744,,,Carlos Rosario International PCS
+4,school,1119,2016,hi7,,0.733,0.724,,,Carlos Rosario International PCS
+5,school,1119,2016,female,,0.745,0.705,,,Carlos Rosario International PCS
+6,school,1119,2016,bl7,,0.754,0.669,,,Carlos Rosario International PCS
+7,school,1119,2016,as7,,0.768,0.762,,,Carlos Rosario International PCS
+8,school,1119,2016,all,,0.737,0.706,,,Carlos Rosario International PCS
+2,school,1120,2016,male,,0.848,0.826,,,National Collegiate Preparatory PCHS
+3,school,1120,2016,female,,0.861,0.837,,,National Collegiate Preparatory PCHS
+4,school,1120,2016,economy,,0.854,0.819,,,National Collegiate Preparatory PCHS
+5,school,1120,2016,bl7,,0.854,0.823,,,National Collegiate Preparatory PCHS
+6,school,1120,2016,all,,0.854,0.832,,,National Collegiate Preparatory PCHS
+2,school,3064,2016,sped,,0.936,0.924,,,Inspired Teaching Demonstration PCS
+3,school,3064,2016,mu7,,0.951,0.953,,,Inspired Teaching Demonstration PCS
+4,school,3064,2016,male,,0.948,0.933,,,Inspired Teaching Demonstration PCS
+5,school,3064,2016,lep,,0.933,0.948,,,Inspired Teaching Demonstration PCS
+6,school,3064,2016,hi7,,0.942,0.948,,,Inspired Teaching Demonstration PCS
+7,school,3064,2016,female,,0.948,0.936,,,Inspired Teaching Demonstration PCS
+8,school,3064,2016,economy,,0.921,0.929,,,Inspired Teaching Demonstration PCS
+9,school,3064,2016,bl7,,0.942,0.926,,,Inspired Teaching Demonstration PCS
+10,school,3064,2016,as7,,0.938,0.962,,,Inspired Teaching Demonstration PCS
+11,school,3064,2016,all,,0.948,0.935,,,Inspired Teaching Demonstration PCS
+2,school,3066,2016,sped,,0.926,0.925,,,Shining Stars Montessori Academy PCS
+3,school,3066,2016,mu7,,0.958,0.953,,,Shining Stars Montessori Academy PCS
+4,school,3066,2016,male,,0.943,0.933,,,Shining Stars Montessori Academy PCS
+5,school,3066,2016,lep,,0.961,0.948,,,Shining Stars Montessori Academy PCS
+6,school,3066,2016,hi7,,0.944,0.947,,,Shining Stars Montessori Academy PCS
+7,school,3066,2016,female,,0.939,0.935,,,Shining Stars Montessori Academy PCS
+8,school,3066,2016,economy,,0.924,0.927,,,Shining Stars Montessori Academy PCS
+9,school,3066,2016,bl7,,0.933,0.924,,,Shining Stars Montessori Academy PCS
+10,school,3066,2016,all,,0.941,0.934,,,Shining Stars Montessori Academy PCS
+2,school,3067,2016,male,,0.903,0.846,,,Richard Wright PCS for Journalism and Media Arts
+3,school,3067,2016,female,,0.89,0.854,,,Richard Wright PCS for Journalism and Media Arts
+4,school,3067,2016,economy,,0.896,0.837,,,Richard Wright PCS for Journalism and Media Arts
+5,school,3067,2016,bl7,,0.897,0.841,,,Richard Wright PCS for Journalism and Media Arts
+6,school,3067,2016,all,,0.896,0.85,,,Richard Wright PCS for Journalism and Media Arts
+2,school,3068,2016,sped,,0.959,0.851,,,BASIS DC PCS
+3,school,3068,2016,mu7,,0.96,0.936,,,BASIS DC PCS
+4,school,3068,2016,male,,0.963,0.888,,,BASIS DC PCS
+5,school,3068,2016,hi7,,0.959,0.896,,,BASIS DC PCS
+6,school,3068,2016,female,,0.959,0.896,,,BASIS DC PCS
+7,school,3068,2016,economy,,0.951,0.881,,,BASIS DC PCS
+8,school,3068,2016,bl7,,0.959,0.883,,,BASIS DC PCS
+9,school,3068,2016,as7,,0.978,0.945,,,BASIS DC PCS
+10,school,3068,2016,all,,0.961,0.892,,,BASIS DC PCS
+2,school,3069,2016,sped,,0.943,0.926,,,Creative Minds International PCS
+3,school,3069,2016,male,,0.944,0.934,,,Creative Minds International PCS
+4,school,3069,2016,lep,,0.956,0.949,,,Creative Minds International PCS
+5,school,3069,2016,hi7,,0.939,0.948,,,Creative Minds International PCS
+6,school,3069,2016,female,,0.946,0.936,,,Creative Minds International PCS
+7,school,3069,2016,economy,,0.932,0.929,,,Creative Minds International PCS
+8,school,3069,2016,bl7,,0.938,0.926,,,Creative Minds International PCS
+9,school,3069,2016,as7,,0.949,0.962,,,Creative Minds International PCS
+10,school,3069,2016,all,,0.945,0.935,,,Creative Minds International PCS
+2,school,3070,2016,male,,0.938,0.934,,,DC Scholars PCS
+3,school,3070,2016,female,,0.942,0.936,,,DC Scholars PCS
+4,school,3070,2016,economy,,0.94,0.929,,,DC Scholars PCS
+5,school,3070,2016,bl7,,0.94,0.926,,,DC Scholars PCS
+6,school,3070,2016,all,,0.94,0.935,,,DC Scholars PCS
+2,school,3065,2016,sped,,0.926,0.925,,,Mundo Verde Bilingual PCS
+3,school,3065,2016,mu7,,0.933,0.953,,,Mundo Verde Bilingual PCS
+4,school,3065,2016,male,,0.941,0.933,,,Mundo Verde Bilingual PCS
+5,school,3065,2016,lep,,0.943,0.948,,,Mundo Verde Bilingual PCS
+6,school,3065,2016,hi7,,0.937,0.947,,,Mundo Verde Bilingual PCS
+7,school,3065,2016,female,,0.938,0.935,,,Mundo Verde Bilingual PCS
+8,school,3065,2016,economy,,0.931,0.927,,,Mundo Verde Bilingual PCS
+9,school,3065,2016,bl7,,0.942,0.924,,,Mundo Verde Bilingual PCS
+10,school,3065,2016,as7,,0.955,0.96,,,Mundo Verde Bilingual PCS
+11,school,3065,2016,all,,0.94,0.934,,,Mundo Verde Bilingual PCS
+2,school,0104,2016,male,,0.583,0.707,,,LAYC Career Academy PCS
+3,school,0104,2016,lep,,0.706,0.744,,,LAYC Career Academy PCS
+4,school,0104,2016,hi7,,0.63,0.724,,,LAYC Career Academy PCS
+5,school,0104,2016,female,,0.565,0.705,,,LAYC Career Academy PCS
+6,school,0104,2016,bl7,,0.504,0.669,,,LAYC Career Academy PCS
+7,school,0104,2016,all,,0.575,0.706,,,LAYC Career Academy PCS
+2,school,0200,2016,male,,0.886,0.928,,,Ingenuity Prep PCS
+3,school,0200,2016,female,,0.898,0.931,,,Ingenuity Prep PCS
+4,school,0200,2016,economy,,0.892,0.923,,,Ingenuity Prep PCS
+5,school,0200,2016,bl7,,0.892,0.92,,,Ingenuity Prep PCS
+6,school,0200,2016,all,,0.892,0.929,,,Ingenuity Prep PCS
+2,school,0197,2016,sped,,0.944,0.921,,,Sela PCS
+3,school,0197,2016,male,,0.916,0.928,,,Sela PCS
+4,school,0197,2016,lep,,0.905,0.945,,,Sela PCS
+5,school,0197,2016,hi7,,0.925,0.942,,,Sela PCS
+6,school,0197,2016,female,,0.927,0.931,,,Sela PCS
+7,school,0197,2016,economy,,0.917,0.923,,,Sela PCS
+8,school,0197,2016,bl7,,0.922,0.92,,,Sela PCS
+9,school,0197,2016,all,,0.922,0.929,,,Sela PCS
+2,school,0187,2016,male,,0.909,0.883,,,Somerset Preparatory Academy PCS
+3,school,0187,2016,female,,0.916,0.893,,,Somerset Preparatory Academy PCS
+4,school,0187,2016,economy,,0.913,0.876,,,Somerset Preparatory Academy PCS
+5,school,0187,2016,bl7,,0.912,0.879,,,Somerset Preparatory Academy PCS
+6,school,0187,2016,all,,0.913,0.888,,,Somerset Preparatory Academy PCS
+2,school,0216,2016,male,,0.545,0.707,,,Community College Preparatory Academy PCS
+3,school,0216,2016,female,,0.558,0.705,,,Community College Preparatory Academy PCS
+4,school,0216,2016,bl7,,0.554,0.669,,,Community College Preparatory Academy PCS
+5,school,0216,2016,all,,0.55,0.706,,,Community College Preparatory Academy PCS
+2,school,0228,2016,sped,,0.912,0.921,,,Lee Montessori PCS
+3,school,0228,2016,male,,0.913,0.928,,,Lee Montessori PCS
+4,school,0228,2016,female,,0.931,0.931,,,Lee Montessori PCS
+5,school,0228,2016,economy,,0.89,0.923,,,Lee Montessori PCS
+6,school,0228,2016,bl7,,0.906,0.92,,,Lee Montessori PCS
+7,school,0228,2016,all,,0.922,0.929,,,Lee Montessori PCS
+2,school,0233,2016,male,,0.672,0.707,,,Academy of Hope Adult PCS
+3,school,0233,2016,hi7,,0.625,0.724,,,Academy of Hope Adult PCS
+4,school,0233,2016,female,,0.662,0.705,,,Academy of Hope Adult PCS
+5,school,0233,2016,bl7,,0.667,0.669,,,Academy of Hope Adult PCS
+6,school,0233,2016,all,,0.664,0.706,,,Academy of Hope Adult PCS
+2,school,0234,2016,economy,,0.883,0.929,,,Democracy Prep Congress Heights PCS
+3,school,0234,2016,bl7,,0.884,0.926,,,Democracy Prep Congress Heights PCS
+4,school,0234,2016,all,,0.883,0.935,,,Democracy Prep Congress Heights PCS
+5,school,0234,2016,sped,,0.881,0.925,,,Democracy Prep Congress Heights PCS
+6,school,0234,2016,male,,0.881,0.934,,,Democracy Prep Congress Heights PCS
+7,school,0234,2016,hi7,,0.869,0.948,,,Democracy Prep Congress Heights PCS
+2,school,0245,2016,male,,0.924,0.941,,,Harmony DC PCS School of Excellence
+3,school,0245,2016,female,,0.916,0.943,,,Harmony DC PCS School of Excellence
+4,school,0245,2016,economy,,0.92,0.936,,,Harmony DC PCS School of Excellence
+5,school,0245,2016,bl7,,0.921,0.933,,,Harmony DC PCS School of Excellence
+6,school,0245,2016,all,,0.92,0.942,,,Harmony DC PCS School of Excellence
+2,school,0248,2016,sped,,0.942,0.908,,,District of Columbia International School
+3,school,0248,2016,mu7,,0.95,0.946,,,District of Columbia International School
+4,school,0248,2016,male,,0.944,0.928,,,District of Columbia International School
+5,school,0248,2016,lep,,0.936,0.939,,,District of Columbia International School
+6,school,0248,2016,hi7,,0.941,0.942,,,District of Columbia International School
+7,school,0248,2016,female,,0.938,0.931,,,District of Columbia International School
+8,school,0248,2016,economy,,0.938,0.923,,,District of Columbia International School
+9,school,0248,2016,bl7,,0.936,0.922,,,District of Columbia International School
+10,school,0248,2016,as7,,0.936,0.962,,,District of Columbia International School
+11,school,0248,2016,all,,0.941,0.929,,,District of Columbia International School
+2,school,0260,2016,male,,0.842,0.587,,,Monument Academy PCS
+3,school,0260,2016,female,,0.894,0.626,,,Monument Academy PCS
+4,school,0260,2016,economy,,0.866,0.606,,,Monument Academy PCS
+5,school,0260,2016,bl7,,0.866,0.609,,,Monument Academy PCS
+6,school,0260,2016,all,,0.866,0.607,,,Monument Academy PCS
+2,school,0263,2016,male,,0.944,0.93,,,Washington Global PCS
+3,school,0263,2016,female,,0.944,0.936,,,Washington Global PCS
+4,school,0263,2016,economy,,0.944,0.927,,,Washington Global PCS
+5,school,0263,2016,bl7,,0.944,0.926,,,Washington Global PCS
+6,school,0263,2016,all,,0.944,0.933,,,Washington Global PCS
+2,school,0267,2016,male,,0.707,0.587,,,Kingsman Academy PCS
+3,school,0267,2016,female,,0.689,0.626,,,Kingsman Academy PCS
+4,school,0267,2016,economy,,0.7,0.606,,,Kingsman Academy PCS
+5,school,0267,2016,bl7,,0.698,0.609,,,Kingsman Academy PCS
+6,school,0267,2016,all,,0.7,0.607,,,Kingsman Academy PCS
+2,school,0255,2016,male,,0.879,0.937,,,The Children's Guild PCS
+3,school,0255,2016,female,,0.892,0.94,,,The Children's Guild PCS
+4,school,0255,2016,economy,,0.885,0.933,,,The Children's Guild PCS
+5,school,0255,2016,bl7,,0.884,0.93,,,The Children's Guild PCS
+6,school,0255,2016,all,,0.884,0.938,,,The Children's Guild PCS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Breakthrough Montessori PCS
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Breakthrough Montessori PCS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Goodwill Excel Center PCS
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Goodwill Excel Center PCS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Rocketship DC PCS
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Rocketship DC PCS
+0,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Washington Leadership Academy PCS
+1,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,ERR,Washington Leadership Academy PCS

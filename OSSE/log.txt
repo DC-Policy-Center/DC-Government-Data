@@ -1,0 +1,236 @@
+School ID: 175, School Name: School Within School at Goding
+School ID: 202, School Name: Aiton ES
+School ID: 203, School Name: Amidon Bowen ES
+School ID: 175, School Name: School Within School at Goding
+School ID: 202, School Name: Aiton ES
+School ID: 203, School Name: Amidon Bowen ES
+School ID: 204, School Name: Bancroft ES at Sharpe
+School ID: 205, School Name: Barnard ES
+School ID: 206, School Name: Beers ES
+School ID: 212, School Name: Brent ES
+School ID: 213, School Name: Brightwood EC
+School ID: 219, School Name: Bunker Hill ES
+School ID: 220, School Name: Burroughs ES
+School ID: 221, School Name: Burrville ES
+School ID: 224, School Name: Cleveland ES
+School ID: 227, School Name: H D Cooke ES
+School ID: 231, School Name: Drew ES
+School ID: 232, School Name: Eaton ES
+School ID: 238, School Name: Garfield ES
+School ID: 239, School Name: Garrison ES
+School ID: 246, School Name: Hardy MS
+School ID: 247, School Name: C W  Harris ES
+School ID: 249, School Name: Hendley ES
+School ID: 251, School Name: Houston ES
+School ID: 252, School Name: Hyde Addison ES
+School ID: 254, School Name: Janney ES
+School ID: 257, School Name: Ketcham ES
+School ID: 258, School Name: Hearst ES
+School ID: 259, School Name: Kimball ES
+School ID: 261, School Name: Lafayette ES
+School ID: 262, School Name: Langdon ES
+School ID: 264, School Name: LaSalle Backus EC
+School ID: 266, School Name: Leckie ES
+School ID: 271, School Name: Ludlow Taylor ES
+School ID: 272, School Name: Key ES
+School ID: 273, School Name: Mann ES
+School ID: 274, School Name: Maury ES
+School ID: 280, School Name: Miner ES
+School ID: 284, School Name: Marie Reed ES at MacFarland
+School ID: 285, School Name: Moten ES
+School ID: 287, School Name: Murch ES
+School ID: 288, School Name: Nalle ES
+School ID: 290, School Name: Noyes ES
+School ID: 291, School Name: Orr ES
+School ID: 292, School Name: Oyster Adams Bilingual School
+School ID: 294, School Name: Patterson ES
+School ID: 295, School Name: Payne ES
+School ID: 296, School Name: Bruce Monroe ES at Park View
+School ID: 299, School Name: Plummer ES
+School ID: 300, School Name: Powell ES
+School ID: 301, School Name: Peabody ES Capitol Hill Cluster
+School ID: 302, School Name: Raymond EC
+School ID: 304, School Name: River Terrace EC
+School ID: 305, School Name: Ross ES
+School ID: 307, School Name: Savoy ES
+School ID: 308, School Name: Malcolm X ES at Green
+School ID: 309, School Name: Seaton ES
+School ID: 313, School Name: Shepherd ES
+School ID: 315, School Name: Simon ES
+School ID: 316, School Name: Randle Highlands ES
+School ID: 319, School Name: Stanton ES
+School ID: 321, School Name: Stoddert ES
+School ID: 322, School Name: Smothers ES
+School ID: 324, School Name: Takoma EC
+School ID: 325, School Name: Thomas ES
+School ID: 326, School Name: Thomson ES
+School ID: 327, School Name: Truesdell EC
+School ID: 328, School Name: Tubman ES
+School ID: 329, School Name: Turner ES
+School ID: 330, School Name: Tyler ES
+School ID: 331, School Name: Van Ness ES
+School ID: 332, School Name: Walker Jones EC
+School ID: 333, School Name: Watkins ES Capitol Hill Cluster
+School ID: 335, School Name: Wheatley EC
+School ID: 336, School Name: West EC
+School ID: 338, School Name: Whittier EC
+School ID: 339, School Name: J O Wilson ES
+School ID: 344, School Name: King M L ES
+School ID: 347, School Name: Brookland MS
+School ID: 349, School Name: Dorothy I Height ES
+School ID: 360, School Name: Capitol Hill Montessori School at Logan
+School ID: 370, School Name: Langley ES
+School ID: 402, School Name: Benjamin Banneker HS
+School ID: 404, School Name: Browne EC
+School ID: 405, School Name: Deal MS
+School ID: 407, School Name: Eliot Hine MS
+School ID: 409, School Name: School Without Walls at Francis Stevens
+School ID: 413, School Name: Hart MS
+School ID: 416, School Name: Johnson John Hayden MS
+School ID: 417, School Name: Kramer MS
+School ID: 420, School Name: MacFarland MS
+School ID: 421, School Name: Kelly Miller MS
+School ID: 427, School Name: Sousa MS
+School ID: 428, School Name: Stuart Hobson MS Capitol Hill Cluster
+School ID: 433, School Name: Jefferson Middle School Academy
+School ID: 435, School Name: McKinley MS
+School ID: 436, School Name: Ron Brown College Preparatory High School
+School ID: 442, School Name: Columbia Heights EC
+School ID: 450, School Name: Anacostia HS
+School ID: 452, School Name: Ballou HS
+School ID: 454, School Name: Cardozo EC
+School ID: 455, School Name: Coolidge HS
+School ID: 456, School Name: Roosevelt STAY
+School ID: 457, School Name: Eastern HS
+School ID: 458, School Name: McKinley Technology HS
+School ID: 459, School Name: Roosevelt HS
+School ID: 462, School Name: Ballou STAY
+School ID: 463, School Name: Wilson HS
+School ID: 464, School Name: Woodson H D HS
+School ID: 466, School Name: School Without Walls HS
+School ID: 467, School Name: Dunbar HS
+School ID: 471, School Name: Duke Ellington School of the Arts
+School ID: 474, School Name: Washington Metropolitan HS
+School ID: 478, School Name: Phelps Architecture Construction and Engineering HS
+School ID: 480, School Name: Inspiring Youth Program
+School ID: 861, School Name: Youth Services Center
+School ID: 884, School Name: Luke Moore Alternative HS
+School ID: 947, School Name: CHOICE Academy at Wash Met
+School ID: 1137, School Name: AppleTree Early Learning Center PCS Oklahoma Avenue
+School ID: 140, School Name: AppleTree Early Learning Center PCS Columbia Heights
+School ID: 141, School Name: AppleTree Early Learning Center PCS Southwest
+School ID: 3072, School Name: AppleTree Early Learning Center PCS Southeast
+School ID: 3073, School Name: AppleTree Early Learning Center PCS Lincoln Park
+School ID: 142, School Name: Bridges PCS
+School ID: 1207, School Name: Capital City PCS High School
+School ID: 182, School Name: Capital City PCS Middle School
+School ID: 184, School Name: Capital City PCS Lower School
+School ID: 102, School Name: Cesar Chavez PCS for Public Policy Parkside Middle School
+School ID: 109, School Name: Cesar Chavez PCS for Public Policy Parkside High School
+School ID: 127, School Name: Cesar Chavez PCS for Public Policy Chavez Prep
+School ID: 153, School Name: Cesar Chavez PCS for Public Policy Capitol Hill
+School ID: 199, School Name: DC Bilingual PCS
+School ID: 1110, School Name: DC Preparatory Academy PCS Benning Elementary School
+School ID: 130, School Name: DC Preparatory Academy PCS Edgewood Elementary School
+School ID: 196, School Name: DC Preparatory Academy PCS Edgewood Middle School
+School ID: 218, School Name: DC Preparatory Academy PCS Benning Middle School
+School ID: 276, School Name: DC Preparatory Academy PCS Anacostia Elementary School
+School ID: 1138, School Name: EL Haynes PCS High School
+School ID: 1206, School Name: EL Haynes PCS Elementary School
+School ID: 146, School Name: EL Haynes PCS Middle School
+School ID: 1125, School Name: Eagle Academy PCS Capitol Riverfront
+School ID: 195, School Name: Eagle Academy PCS Congress Heights
+School ID: 138, School Name: Early Childhood Academy PCS
+School ID: 126, School Name: Briya PCS
+School ID: 1124, School Name: Friendship PCS Technology Preparatory Academy Middle
+School ID: 113, School Name: Friendship PCS Southeast Academy
+School ID: 1164, School Name: Friendship PCS Technology Preparatory Academy High School
+School ID: 186, School Name: Friendship PCS Collegiate Academy
+School ID: 268, School Name: Friendship PCS Online
+School ID: 269, School Name: Friendship PCS Armstrong
+School ID: 361, School Name: Friendship PCS Blow Pierce Elementary School
+School ID: 362, School Name: Friendship PCS Blow Pierce Middle School
+School ID: 363, School Name: Friendship PCS Chamberlain Elementary School
+School ID: 364, School Name: Friendship PCS Chamberlain Middle School
+School ID: 365, School Name: Friendship PCS Woodridge Elementary School
+School ID: 366, School Name: Friendship PCS Woodridge Middle School
+School ID: 114, School Name: Hope Community PCS Tolson
+School ID: 131, School Name: Hope Community PCS Lamond
+School ID: 188, School Name: Cedar Tree Academy PCS
+School ID: 115, School Name: Howard University Middle School of Mathematics and Science PCS
+School ID: 161, School Name: Perry Street Preparatory PCS
+School ID: 163, School Name: IDEA PCS
+School ID: 134, School Name: Ideal Academy PCS
+School ID: 1121, School Name: KIPP DC PCS Promise Academy
+School ID: 1122, School Name: KIPP DC Discover Academy PCS
+School ID: 1123, School Name: KIPP DC College Preparatory Academy PCS
+School ID: 1129, School Name: KIPP DC Grow Academy PCS
+School ID: 116, School Name: KIPP DC AIM Academy PCS
+School ID: 121, School Name: KIPP DC WILL Academy PCS
+School ID: 132, School Name: KIPP DC LEAP Academy PCS
+School ID: 189, School Name: KIPP DC KEY Academy PCS
+School ID: 190, School Name: KIPP DC Lead Academy PCS
+School ID: 209, School Name: KIPP DC Connect Academy PCS
+School ID: 214, School Name: KIPP DC Spring Academy PCS
+School ID: 236, School Name: KIPP DC Arts and Technology Academy PCS
+School ID: 237, School Name: KIPP DC Quest Academy PCS
+School ID: 242, School Name: KIPP DC Northeast Academy PCS
+School ID: 243, School Name: KIPP DC Valor Academy PCS
+School ID: 3071, School Name: KIPP DC Heights Academy PCS
+School ID: 193, School Name: Latin American Montessori Bilingual PCS
+School ID: 128, School Name: Youthbuild PCS
+School ID: 135, School Name: Mary McLeod Bethune Day Academy PCS
+School ID: 101, School Name: Maya Angelou PCS - High School
+School ID: 137, School Name: Maya Angelou PCS Young Adult Learning Center
+School ID: 165, School Name: Meridian PCS
+School ID: 170, School Name: Paul PCS Middle School
+School ID: 222, School Name: Paul PCS International High School
+School ID: 173, School Name: Roots PCS
+School ID: 174, School Name: SEED PCS of Washington DC
+School ID: 1047, School Name: St. Coletta Special Education PCS
+School ID: 159, School Name: Elsie Whitlow Stokes Community Freedom PCS
+School ID: 168, School Name: The Next Step El Proximo Paso PCS
+School ID: 191, School Name: Thurgood Marshall Academy PCS
+School ID: 198, School Name: Two Rivers PCS 4th St
+School ID: 270, School Name: Two Rivers PCS Young
+School ID: 1118, School Name: Washington Latin PCS Upper School
+School ID: 125, School Name: Washington Latin PCS Middle School
+School ID: 178, School Name: Washington Mathematics Science Technology PCHS
+School ID: 210, School Name: City Arts & Prep PCS
+School ID: 1100, School Name: Achievement Preparatory Academy PCS Wahler Place Middle School
+School ID: 217, School Name: Achievement Preparatory Academy PCS Wahler Place Elementary School
+School ID: 1103, School Name: Center City PCS Brightwood
+School ID: 1104, School Name: Center City PCS Capitol Hill
+School ID: 1105, School Name: Center City PCS Congress Heights
+School ID: 1106, School Name: Center City PCS Petworth
+School ID: 1107, School Name: Center City PCS Shaw
+School ID: 1108, School Name: Center City PCS Trinidad
+School ID: 1113, School Name: Excel Academy PCS
+School ID: 1117, School Name: Washington Yu Ying PCS
+School ID: 1119, School Name: Carlos Rosario International PCS
+School ID: 1120, School Name: National Collegiate Preparatory PCHS
+School ID: 3064, School Name: Inspired Teaching Demonstration PCS
+School ID: 3066, School Name: Shining Stars Montessori Academy PCS
+School ID: 3067, School Name: Richard Wright PCS for Journalism and Media Arts
+School ID: 3068, School Name: BASIS DC PCS
+School ID: 3069, School Name: Creative Minds International PCS
+School ID: 3070, School Name: DC Scholars PCS
+School ID: 3065, School Name: Mundo Verde Bilingual PCS
+School ID: 104, School Name: LAYC Career Academy PCS
+School ID: 200, School Name: Ingenuity Prep PCS
+School ID: 197, School Name: Sela PCS
+School ID: 187, School Name: Somerset Preparatory Academy PCS
+School ID: 216, School Name: Community College Preparatory Academy PCS
+School ID: 228, School Name: Lee Montessori PCS
+School ID: 233, School Name: Academy of Hope Adult PCS
+School ID: 234, School Name: Democracy Prep Congress Heights PCS
+School ID: 245, School Name: Harmony DC PCS School of Excellence
+School ID: 248, School Name: District of Columbia International School
+School ID: 260, School Name: Monument Academy PCS
+School ID: 263, School Name: Washington Global PCS
+School ID: 267, School Name: Kingsman Academy PCS
+School ID: 255, School Name: The Children's Guild PCS
+School ID: 289, School Name: Breakthrough Montessori PCS
+School ID: 297, School Name: Goodwill Excel Center PCS
+School ID: 286, School Name: Rocketship DC PCS
+School ID: 283, School Name: Washington Leadership Academy PCS
