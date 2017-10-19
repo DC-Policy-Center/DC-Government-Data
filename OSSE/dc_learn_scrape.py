@@ -40,7 +40,7 @@ metric_list = ['attendance','enrollment','suspensions']
 
 
 empty_SA = pd.DataFrame({'org_type':['ERR','ERR'],
-                        'g_code':['ERR','ERR'],
+                        'org_code':['ERR','ERR'],
                         'year':['ERR','ERR'],
                         'group':['ERR','ERR'],
                         'population':['ERR','ERR'],
@@ -93,13 +93,14 @@ for school_index in range(school_list_len):
         f.write('School ID: %s, School Name: %s\n'%(school_id,school_name))
     f.close()
 
-
-    attendance_url = 'https://learndc-api.herokuapp.com//api/exhibit/attendance.csv?s[][org_type]=school&s[][org_code]=%s&sha=promoted'%(org_code)
-    enrollment_url = 'https://learndc-api.herokuapp.com//api/exhibit/enrollment.csv?s[][org_type]=school&s[][org_code]=%s&sha=promoted'%(org_code)
-    suspensions_url = 'https://learndc-api.herokuapp.com//api/exhibit/suspensions.csv?s[][org_type]=school&s[][org_code]=%s&sha=promoted'%(org_code)
-    withdrawl_url = 'https://learndc-api.herokuapp.com//api/exhibit/mid_year_entry_and_withdrawl.csv?s[][org_type]=school&s[][org_code]=%s&sha=promoted'%(org_code)
-
-
+    start_url = 'https://learndc-api.herokuapp.com//api/exhibit/'
+    end_url = '.csv?s[][org_type]=school&s[][org_code]=%s&sha=promoted'%(org_code)
+    attendance_url = '%sattendance%s'%(start_url,end_url)
+    enrollment_url = '%senrollment%s'%(start_url,end_url)
+    suspensions_url = '%ssuspensions%s'%(start_url,end_url)
+    withdrawl_url = '%smid_year_entry_and_withdrawl%s'%(start_url,end_url)
+    mgp_url = '%smgp_scores%s'%(start_url,end_url)
+    sped_url = '%sspecial_ed%s'%(start_url,end_url)
 
     school_attendance,response_SA = read_csv_request(attendance_url)
     school_enrollment,response_SE = read_csv_request(enrollment_url)
