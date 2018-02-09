@@ -64,17 +64,51 @@ def count_of_lic_in_ward(bbl):
         row += 1
     return(licCount)
 
-# ne method to combine lists
+def combine_df(df_1,df_2):
+    df_3 = pd.concat([df_1,df_2], ignore_index=True)
+    return(df_3)
+
+
 
 bbl18 = import_data_by_api(2018)
 count_18 = count_of_lic_in_ward(bbl18)
+
+bbl17 = import_data_by_api(2017)
+count_17 = count_of_lic_in_ward(bbl17)
+
+bbl_all = combine_df(bbl18,bbl17)
+
+bbl16 = import_data_by_api(2016)
+count_16 = count_of_lic_in_ward(bbl16)
+bbl_all = combine_df(bbl_all,bbl16)
+
+
+bbl15 = import_data_by_api(2015)
+count_15 = count_of_lic_in_ward(bbl15)
+bbl_all = combine_df(bbl_all,bbl15)
+
+bbl14 = import_data_by_api(2014)
+count_14 = count_of_lic_in_ward(bbl14)
+bbl_all = combine_df(bbl_all,bbl14)
+
+count_all = count_of_lic_in_ward(bbl_all)
+
+
+
 wards = [1,2,3,4,5,6,7,8]
 y = []
 x = []
 lic_select = 'General Business Licenses'
-for item in count_18[lic_select]:
-    x.append(item)
-    y.append(count_18[lic_select][item])
+lic_select = input('Which license would you like to count by ward?   ')
+lic_select = lic_select.title()
+if lic_select == 'All':
+    for item in count_all:
+        x.append(item)
+        y.append(count_all[item])
+else:
+    for item in count_all[lic_select]:
+        x.append(item)
+        y.append(count_all[lic_select][item])
     
 '''      
 plt.bar(x,y,align='edge')
