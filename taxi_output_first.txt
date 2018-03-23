@@ -1,0 +1,13 @@
+RUNTIME = 18.54 minutes
+
+Rides = 3089006
+
+Meterfare = 39364349.05
+
+Tips = 3798431.6700002556
+
+Surcharge = 677154.76
+
+Extras = 1437737.1900000018
+
+Total = 46119332.25
