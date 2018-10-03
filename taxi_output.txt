@@ -1,0 +1,5 @@
+Rides = 3089006
+Meterfare = 39364349.05
+Surcharge = 763839.26
+Extras = 1622081.940000002
+Total = 46119332.25
